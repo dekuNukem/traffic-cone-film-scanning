@@ -1,26 +1,30 @@
-# Traffic-Cone Film Scanning System
+# Traffic-Cone Film Scanning: High-Quality Digitization on the Cheap
 
-TCFS is a low-cost 3D-printable adaptor for high-quality film scans using digital cameras.
+Analog photography is making a resurgence, many people are shooting film again.
 
+To view and share the photos, they need to be digitized.
 
-maybe write it as a guide?
+Scanning using digital camera and macro lens is popular, but a conventional setup can cost [hundreds of dollars](photos/dollaz.png).
+
+TCFS is a low-cost 3D-printable alternative that delivers high-quality results at a fraction of the price.
 
 ![Alt text](photos/title.png)
+
+## How It Works
+
+* Print a cone
+* Attach to lens hood
+* Lens hood on macro lens
+* Film flat under glass
+* Camera points straight down
+* Focus and shoot!
 
 ## Advantages
 
 * **Low cost**: $5 in filaments, $60 all-in.
 * **Space-saving**: No tripods or copystands.
 * **No calibration**: Fixed distance, always square, no fiddling.
-* **Multi format**: 110, 127, 35mm, 645, 6x6, 6x7, 6x9, sprockets, and more!
-
-## How It Works
-
-* Adaptor attaches to lens hood
-* Lens hood on macro lens
-* Film flat under glass
-* Camera points straight down
-* Focus and shoot!
+* **Multi format**: 126, 35mm, 645, 6x6, 6x7, 6x9, sprockets, and more!
 
 ## Samples
 
@@ -32,17 +36,17 @@ Fuji XT4 + Laowa 65mm f/2.8
 
 ![Alt text](photos/tail.jpeg)
 
-↓ White specks from film expiration, not dust.
-
 ![Alt text](photos/cloud.jpeg)
 
-As you can see, the results speak for themselves.
+↑ The white specks are from film expiration, not dust!!1
+
+Anyway, as you can see, the results speak for themselves!
 
 ## So What's the Catch?
 
-It's not an off-the-shelf product, so you need to be a bit handy:
+It's not a turn-key solution. You need to be a bit handy:
 
-* Basic DIY skills: Wire up a plug, measure with a caliper, etc.
+* Basic DIY skills: Wire a plug, using a caliper, etc.
 
 * Access to 3D printer (Your own / local library / makerspace)
 
@@ -50,26 +54,82 @@ It's not an off-the-shelf product, so you need to be a bit handy:
 
 ## Instructions
 
-Interested? Let's get going!
+Interested? Let's get started!
 
-#### Light table
+The setup involves:
 
-You can spend hundreds on a specialty film scanning light from the usual suspects that sponsor Youtube videos.
+* Light Table
+* Macro Lens
+* Flat Glass
+* The Cone
 
-However, my recommendation is getting a **High-CRI LED Panel Light** for office ceilings.
+### Light table
+
+A bright and even light source is needed to illuminate the film from behind.
+
+You can spend a lot on the usual suspects that sponsor Youtube videos.
+
+Instead, I recommend getting a **High-CRI LED Panel Light** for office ceilings:
 
 ![Alt text](photos/panel.png)
 
-They are a lot cheaper, massive area 
+They are a lot cheaper (around $50), and give you a massive area to work with.
 
 ![Alt text](photos/space.jpeg)
 
+Of course, there are smaller size too, just make sure it is high-CRI.
 
+### Macro Lens
 
-#### Lens selection
+Obviously, the quality of the scan largely depend on the lens.
 
-* Proper macro lens, new or vintage
+For best results, I would recommend:
 
-* Has fixed front element (doesn't go in and out when focusing)
+* A proper **macro lens**
+* With **internal focusing** (front element doesn't move)
+* Can take thread-mount (or bayonet-mount) lens hood
 
--------
+I use [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.net/product/laowa-65mm-f-2-8-2x-ultra-macro-apo/).
+
+It seems to be very well reviewed:
+
+* 2x magnification
+* Great image quality
+* Already popular with film digitization
+* Good value for money
+* Fully manual
+
+Around $340 on Aliexpress, $380 from other sources with faster shipping.
+
+![Alt text](photos/laowa.jpg)
+
+Many **vintage lens** are good candidates too, and can be a lot cheaper.
+
+However, you need to do your own homework.
+
+Search `Film scanning macro lens` on google.
+
+[This article has a fairly extensive tier list](https://web.archive.org/web/20240206003914/https://www.pixl-latr.com/how-good-a-macro-lens-do-you-really-need-for-dslr-mirrorless-camera-scanning/).
+
+### Flat Glass
+
+We also need a piece of glass to hold the film flat on the light table.
+
+* Around 2mm thickness
+
+* At least 8x10 in size
+
+* I got mine from a cheap picture frame
+
+* Make sure it's **glass** NOT acrylic
+
+There are also fancy variants such as etched or low-reflection glasses, but I did just fine with the regular kind.
+
+![Alt text](photos/frame.jpg)
+
+#### OMG but what about newton rings???????///
+
+We'll scan with emulsion (matte) side up.
+
+## Printing the Traffic Cone
+
