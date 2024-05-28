@@ -130,10 +130,16 @@ We'll scan with emulsion (matte) side up.
 
 ## Printing the Traffic Cone
 
+With everything else sorted, it's time to print a traffic cone for your lens, and a specific film format.
 
-### I have the Laowa 65mm f/2.8 !
+
+
+### I have the Laowa 65mm f/2.8!
 
 Great! 
+
+35mm
+6x9
 
 ### I'm using some other lens!
 
