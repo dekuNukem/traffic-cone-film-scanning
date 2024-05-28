@@ -4,7 +4,7 @@ Analog photography is making a resurgence, many people are shooting film again.
 
 To view and share the photos, they need to be digitized.
 
-Scanning using digital camera and macro lens is popular, but a conventional setup can cost [hundreds of dollars](photos/dollaz.png).
+Scanning using a digital camera is popular, but a conventional setup can cost [hundreds of dollars](photos/dollaz.png).
 
 TCFS is a low-cost 3D-printable alternative that delivers high-quality results at a fraction of the price.
 
@@ -52,7 +52,7 @@ It's not a turn-key solution. You need to be a bit handy:
 
 * Know basics of 3D printing (or have someone do it for you)
 
-## Instructions
+## Parts
 
 Interested? Let's get started!
 
@@ -73,7 +73,7 @@ Instead, I recommend getting a **High-CRI LED Panel Light** for office ceilings:
 
 ![Alt text](photos/panel.png)
 
-They are a lot cheaper (around $50), and give you a massive area to work with.
+They are a lot cheaper, and give you a massive area to work with.
 
 ![Alt text](photos/space.jpeg)
 
@@ -81,7 +81,7 @@ Of course, there are smaller size too, just make sure it is high-CRI.
 
 ### Macro Lens
 
-Obviously, the quality of the scan largely depend on the lens.
+Obviously, the quality of the scan depends largely on the lens.
 
 For best results, I would recommend:
 
@@ -97,7 +97,7 @@ It seems to be very well reviewed:
 * Great image quality
 * Already popular with film digitization
 * Good value for money
-* Fully manual
+* **Ready-to-print** cones!
 
 Around $340 on Aliexpress, $380 from other sources with faster shipping.
 
@@ -116,20 +116,30 @@ Search `Film scanning macro lens` on google.
 We also need a piece of glass to hold the film flat on the light table.
 
 * Around 2mm thickness
-
 * At least 8x10 in size
-
 * I got mine from a cheap picture frame
-
 * Make sure it's **glass** NOT acrylic
 
 There are also fancy variants such as etched or low-reflection glasses, but I did just fine with the regular kind.
 
 ![Alt text](photos/frame.jpg)
 
-#### OMG but what about newton rings???????///
+#### OMG what about newton rings???????///
 
 We'll scan with emulsion (matte) side up.
 
 ## Printing the Traffic Cone
+
+
+### I have the Laowa 65mm f/2.8 !
+
+Great! 
+
+### I'm using some other lens!
+
+take a look at this article to customize the cone to your specific lens
+
+
+
+
 
