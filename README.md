@@ -32,9 +32,9 @@ Fuji XT4 + Laowa 65mm f/2.8
 
 ![Alt text](photos/crow.jpeg)
 
-![Alt text](photos/beware.jpeg)
-
 ![Alt text](photos/tail.jpeg)
+
+![Alt text](photos/beware.jpeg)
 
 ![Alt text](photos/cloud.jpeg)
 
@@ -44,7 +44,7 @@ Anyway, as you can see, the results speak for themselves!
 
 ## So What's the Catch?
 
-It's not a turn-key solution. You need to be a bit handy:
+This is not a turn-key solution. You need to be a bit handy:
 
 * Basic DIY skills: Wire a plug, using a caliper, etc.
 
@@ -60,6 +60,7 @@ The setup involves:
 
 * Light Table
 * Macro Lens
+* Lens Hood
 * Flat Glass
 * The Cone
 
@@ -94,7 +95,7 @@ I use [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.net/product/la
 It seems to be very well reviewed:
 
 * 2x magnification
-* Great image quality
+* Superb image quality
 * Already popular with film digitization
 * Good value for money
 * **Ready-to-print** cones!
@@ -111,6 +112,10 @@ Search `Film scanning macro lens` on google.
 
 [This article has a fairly extensive tier list](https://web.archive.org/web/20240206003914/https://www.pixl-latr.com/how-good-a-macro-lens-do-you-really-need-for-dslr-mirrorless-camera-scanning/).
 
+### Lens Hood
+
+Under construction
+
 ### Flat Glass
 
 We also need a piece of glass to hold the film flat on the light table.
@@ -124,7 +129,7 @@ There are also fancy variants such as etched or low-reflection glasses, but I di
 
 ![Alt text](photos/frame.jpg)
 
-#### OMG what about newton rings???????///
+#### OMG but what about newton rings???????///
 
 We'll scan with emulsion (matte) side up.
 

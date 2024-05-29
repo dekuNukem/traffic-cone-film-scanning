@@ -12,6 +12,6 @@ Bigger is better, at least 8x10.
 
 ![Alt text](photos/frame.jpg)
 
-### But What About Newton Rings????????
+### But what About Newton Rings????????
 
 We'll scan with emulsion side up. You'll see.
