@@ -70,6 +70,8 @@ A bright and even light source is needed to illuminate the film from behind.
 
 You can spend a lot on the usual suspects that sponsor Youtube videos.
 
+mention light temperature, around 5000K, netural white, not too warm or cold.
+
 Instead, I recommend getting a **High-CRI LED Panel Light** for office ceilings:
 
 ![Alt text](photos/panel.png)
@@ -88,7 +90,6 @@ For best results, I would recommend:
 
 * A proper **macro lens**
 * With **internal focusing** (front element doesn't move)
-* Can take thread-mount (or bayonet-mount) lens hood
 
 I use [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.net/product/laowa-65mm-f-2-8-2x-ultra-macro-apo/).
 
@@ -116,22 +117,26 @@ Search `Film scanning macro lens` on google.
 
 Under construction
 
+cheap generic one
+
+fully closed not the open kind, show photo
+
 ### Flat Glass
 
 We also need a piece of glass to hold the film flat on the light table.
 
 * Around 2mm thickness
 * At least 8x10 in size
-* I got mine from a cheap picture frame
 * Make sure it's **glass** NOT acrylic
-
-There are also fancy variants such as etched or low-reflection glasses, but I did just fine with the regular kind.
+* I got mine from a cheap picture frame
 
 ![Alt text](photos/frame.jpg)
 
-#### OMG but what about newton rings???????///
+#### But what about newton rings???????
 
-We'll scan with emulsion (matte) side up.
+We scan with emulsion/matte/curled side up, and it seems to do the job.
+
+I would suggest start with regular glass, you can always upgrade to ANR/etched glass if you're happy with everything else.
 
 ## Printing the Traffic Cone
 
@@ -156,6 +161,8 @@ take a look at this article to customize the cone to your specific lens
 
 
 Print using your favioute slicer
+
+im not going to go over how to do it step-by-step, but it should be fairly easy to print. 2 hours for 35mm, 8 hours for 120.
 
 ## Putting everything together
 
