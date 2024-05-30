@@ -137,20 +137,29 @@ We'll scan with emulsion (matte) side up.
 
 With everything else sorted, it's time to print a traffic cone for your lens, and a specific film format.
 
-
-
 ### I have the Laowa 65mm f/2.8!
 
 Great! 
 
+Download the STL files
+
 35mm
+6x6
+6x7
 6x9
+
+bottom plate dimension should be 90x90mm
 
 ### I'm using some other lens!
 
 take a look at this article to customize the cone to your specific lens
 
 
+Print using your favioute slicer
+
+## Putting everything together
+
+assembly
 
 
 
