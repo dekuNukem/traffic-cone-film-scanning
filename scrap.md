@@ -1,6 +1,7 @@
 
 -------
 
+Suitable for Fuji X / Sony mirrorless. Canon APSC might be slightly tighter.
 
 ### Flat Glass
 

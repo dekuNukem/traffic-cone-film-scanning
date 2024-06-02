@@ -82,7 +82,7 @@ They are a lot cheaper, and give you a massive area to work with.
 
 * Standard size is 600x600mm / 24x24in 
 
-* Half-size ones available, but I like it big!
+* Smaller ones available, but I like it big!
 
 ![Alt text](photos/space.jpeg)
 
@@ -108,7 +108,7 @@ For best results, I recommend:
 You can always drop 4 figures on a flagship first-party lens, but for film scanning it's a bit overkill.
 
 
-I personally use [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.net/product/laowa-65mm-f-2-8-2x-ultra-macro-apo/).
+Personally I use [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.net/product/laowa-65mm-f-2-8-2x-ultra-macro-apo/).
 
 * 2x MR
 * Superb image quality
@@ -117,7 +117,7 @@ I personally use [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.net
 
 ![Alt text](photos/laowa.jpg)
 
-Another popular option is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store/products/7artisans-60mm-f2-8-mark-ii-macro-lens-for-sony-e-fuji-fx-canon-eos-m-olympus-m43-nikon-z-mirrorless-cameras)
+Another popular option is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store/products/7artisans-60mm-f2-8-mark-ii-macro-lens-for-sony-e-fuji-fx-canon-eos-m-olympus-m43-nikon-z-mirrorless-cameras).
 
 * 1x MR
 * Excellent image quality
@@ -166,7 +166,7 @@ We need a piece of glass to hold the film flat on the light table.
 
 #### But what about newton rings???????
 
-We scan with emulsion/matte/curled side up, it helps a lot.
+We scan with emulsion/matte/curled side up, helps a lot.
 
 I suggest starting with cheap plain glass, you can always upgrade to ANR glass down the line.
 
@@ -187,7 +187,7 @@ Pick a file below and go to the next section.
 * [120 6x9]()
 * [35mm sprocket pano on 120 6x6]()
 
-Suitable for Fuji X / Sony mirrorless. Canon APSC might be slightly tighter.
+sample file name: laowa_65mm_2.8_APSC-35mm.stl
 
 ### I'm using my own lens / I want to customize!
 
@@ -202,7 +202,6 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 * Around 10-20% infill, no need to go crazy.
 
 * Very simple model, turn up the speed if you want.
-
 
 ## Assembling the Cone
 
