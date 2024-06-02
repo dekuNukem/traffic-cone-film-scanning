@@ -32,9 +32,9 @@ Fuji XT4 + Laowa 65mm f/2.8
 
 ![Alt text](photos/crow.jpeg)
 
-![Alt text](photos/tail.jpeg)
-
 ![Alt text](photos/beware.jpeg)
+
+![Alt text](photos/tail.jpeg)
 
 ![Alt text](photos/cloud.jpeg)
 
