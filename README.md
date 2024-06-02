@@ -14,9 +14,9 @@ TCFS is a low-cost 3D-printable alternative that produces high-quality results a
 
 * Print a cone
 * Attach to lens hood
-* Lens hood on macro lens
+* Attach to macro lens
 * Film flat under glass
-* Camera points straight down
+* Camera rests on cone pointing straight down
 * Focus and shoot!
 
 ## Advantages
@@ -38,9 +38,7 @@ Fuji XT4 + Laowa 65mm f/2.8
 
 ![Alt text](photos/cloud.jpeg)
 
-↑ The white specks are from film expiration, not dust!!1
-
-Anyway, as you can see, the results speak for themselves!
+Suffice to say, the results speak for themselves!
 
 ## So What's the Catch?
 
