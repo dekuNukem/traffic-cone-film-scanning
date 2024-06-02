@@ -52,11 +52,9 @@ This is not a turn-key solution. You need to be a bit handy:
 
 * Know basics of 3D printing (or have someone do it for you)
 
-## Parts
+## Sounds Great, I'm In!
 
-Interested? Let's get started!
-
-The setup involves:
+Let's get started! The setup involves:
 
 * Light Table
 * Macro Lens
@@ -65,7 +63,6 @@ The setup involves:
 * The Cone
 
 This article assumes that you already have some 3D printing experience, so I'm not going into too much details. If this is your first time, there are a lot of resources online.
-
 
 ## Light Table
 
@@ -83,6 +80,8 @@ They are a lot cheaper, and give you a massive area to work with.
 
 * Neutral color temperature (**Around 5000K**)
 
+* Matte surface finish (pretty sure all of them are)
+
 * Standard size is 600x600mm / 24x24in 
 
 * Half-size ones available, but I like it big!
@@ -91,12 +90,14 @@ They are a lot cheaper, and give you a massive area to work with.
 
 ## Macro Lens
 
-Obviously, the quality of the scan is largely dictated by the lens.
+Obviously, the quality of the scan largely depends on the lens.
 
-For best results, I would recommend:
+For best results, I recommend:
 
 * A proper **macro lens**
 * With **internal focusing** (front element doesn't move)
+
+---------
 
 **Magnification Ratio** is an important factor to consider.
 
@@ -188,19 +189,22 @@ Pick a file below and go to the next section.
 * [120 6x9]()
 * [35mm sprocket pano on 120 6x6]()
 
+Suitable for Fuji X / Sony mirrorless. Canon APSC might be slightly tighter.
+
 ### I'm using my own lens / I want to customize!
 
 [Click me to learn how to customize your cone.](cone_customization.md)
 
 ## Printing the Cone
 
+If you don't have a 3D printer, try local library, makerspace, or online printing services.
+
 * Use opaque **black** filament, PLA works just fine.
+
+* Around 10-20% infill, no need to go crazy.
 
 * Very simple model, turn up the speed if you want.
 
-* 10% to 20% infill is plenty.
-
-* Around 2 hours for the 35mm cone on my Ender3 S1 Pro.
 
 ## Assembling the Cone
 
@@ -264,6 +268,8 @@ checklist
 
 white balance correct?
 ISO as small as possible
+
+## Troubleshooting / Q&A
 
 
 
