@@ -6,7 +6,7 @@ To view and share the photos, they need to be digitized.
 
 Scanning using a digital camera is popular, but a conventional setup can cost [hundreds of dollars](photos/dollaz.png).
 
-TCFS is a low-cost 3D-printable alternative that delivers high-quality results at a fraction of the price.
+TCFS is a low-cost 3D-printable alternative that produces high-quality results at a fraction of the price.
 
 ![Alt text](photos/title.png)
 
@@ -21,10 +21,10 @@ TCFS is a low-cost 3D-printable alternative that delivers high-quality results a
 
 ## Advantages
 
-* **Low cost**: $5 in filaments, $60 all-in.
+* **Low cost**: $1 in filaments, $50 all-in.
 * **Space-saving**: No tripods or copystands.
 * **No calibration**: Fixed distance, always square, no fiddling.
-* **Multi format**: 126, 35mm, 645, 6x6, 6x7, 6x9, sprockets, and more!
+* **Multi format**: 110, 126, 35mm, 645, 6x6, 6x7, 6x9, sprockets, and more!
 
 ## Samples
 
@@ -64,48 +64,72 @@ The setup involves:
 * Flat Glass
 * The Cone
 
-### Light table
+## Light table
 
 A bright and even light source is needed to illuminate the film from behind.
 
 You can spend a lot on the usual suspects that sponsor Youtube videos.
 
-mention light temperature, around 5000K, netural white, not too warm or cold.
-
-Instead, I recommend getting a **High-CRI LED Panel Light** for office ceilings:
-
-![Alt text](photos/panel.png)
+Instead, I recommend getting a **LED Light Panel** for office ceilings.
 
 They are a lot cheaper, and give you a massive area to work with.
 
+![Alt text](photos/panel.png)
+
+* Make sure it's **High-CRI** (>95)
+
+* Neutral color temperature (**Around 5000K**)
+
+* Standard size is 600x600mm / 24x24in 
+
+* Half-size ones available, but I like it big!
+
 ![Alt text](photos/space.jpeg)
 
-Of course, there are smaller size too, just make sure it is high-CRI.
+## Macro Lens
 
-### Macro Lens
-
-Obviously, the quality of the scan depends largely on the lens.
+Obviously, the quality of the scan is largely dictated by the lens.
 
 For best results, I would recommend:
 
 * A proper **macro lens**
 * With **internal focusing** (front element doesn't move)
 
-I use [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.net/product/laowa-65mm-f-2-8-2x-ultra-macro-apo/).
+**Magnification Ratio** is an important factor to consider.
 
-It seems to be very well reviewed:
+* A 1:1 (1x) ratio means the lens can project the **actual size of the subject** onto the sensor
+* At 2:1 (2x), the subject can be projected **twice as big** on the sensor
+* Therefore, a decent MR is helpful for scanning smaller formats (35mm and under).
 
-* 2x magnification
+-------
+
+You can always drop 4 figures on a flagship first-party lens, but for film scanning it's a bit overkill.
+
+
+I personally use [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.net/product/laowa-65mm-f-2-8-2x-ultra-macro-apo/).
+
+* 2x MR
 * Superb image quality
-* Already popular with film digitization
-* Good value for money
 * **Ready-to-print** cones!
-
-Around $340 on Aliexpress, $380 from other sources with faster shipping.
+* Around $350
 
 ![Alt text](photos/laowa.jpg)
 
-Many **vintage lens** are good candidates too, and can be a lot cheaper.
+Another popular option is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store/products/7artisans-60mm-f2-8-mark-ii-macro-lens-for-sony-e-fuji-fx-canon-eos-m-olympus-m43-nikon-z-mirrorless-cameras)
+
+* 1x MR
+* Excellent image quality
+* Around $160
+
+![Alt text](photos/7art.png)
+
+Both are fully manual and popular with film digitization.
+
+The extra magnification of laowa can be handy for subminiature formats such as 110, 16mm, or disk films.
+
+-----------------
+
+Many **vintage lens** are good candidates too, and can be even cheaper.
 
 However, you need to do your own homework.
 
@@ -113,17 +137,23 @@ Search `Film scanning macro lens` on google.
 
 [This article has a fairly extensive tier list](https://web.archive.org/web/20240206003914/https://www.pixl-latr.com/how-good-a-macro-lens-do-you-really-need-for-dslr-mirrorless-camera-scanning/).
 
-### Lens Hood
+## Lens Hood
 
-Under construction
+We also need a lens hood to attach the cone to.
 
-cheap generic one
+* Same diameter as your lens
+* **Circular** shape
+* **Fully enclosed**
+* One-piece **metal** (not collapsible)
+* Not too tall
 
-fully closed not the open kind, show photo
+Just get the cheapest from ebay or aliexpress, they are all the same. 
 
-### Flat Glass
+![Alt text](photos/hood.png)
 
-We also need a piece of glass to hold the film flat on the light table.
+## Flat Glass
+
+We need a piece of glass to hold the film flat on the light table.
 
 * Around 2mm thickness
 * At least 8x10 in size
@@ -134,13 +164,13 @@ We also need a piece of glass to hold the film flat on the light table.
 
 #### But what about newton rings???????
 
-We scan with emulsion/matte/curled side up, and it seems to do the job.
+We scan with emulsion/matte/curled side up, and that seems to do the job.
 
-I would suggest start with regular glass, you can always upgrade to ANR/etched glass if you're happy with everything else.
+I would suggest start with cheap plain glass, you can always upgrade to ANR glass down the line.
 
 ## Printing the Traffic Cone
 
-With everything else sorted, it's time to print a traffic cone for your lens, and a specific film format.
+With everything else sorted, it's time to print a traffic cone for your lens!
 
 ### I have the Laowa 65mm f/2.8!
 
@@ -157,12 +187,9 @@ bottom plate dimension should be 90x90mm
 
 ### I'm using some other lens!
 
-take a look at this article to customize the cone to your specific lens
+take a look at this article to customize the cone to your specific lens.
 
-
-Print using your favioute slicer
-
-im not going to go over how to do it step-by-step, but it should be fairly easy to print. 2 hours for 35mm, 8 hours for 120.
+Load up the model in your slicer. It should be very easy to print, so don't be afraid to turn up the speed.
 
 ## Putting everything together
 
