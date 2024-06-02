@@ -64,7 +64,10 @@ The setup involves:
 * Flat Glass
 * The Cone
 
-## Light table
+This article assumes that you already have some 3D printing experience, so I'm not going into too much details. If this is your first time, there are a lot of resources online.
+
+
+## Light Table
 
 A bright and even light source is needed to illuminate the film from behind.
 
@@ -129,7 +132,7 @@ The extra magnification of laowa can be handy for subminiature formats such as 1
 
 -----------------
 
-Many **vintage lens** are good candidates too, and can be even cheaper.
+Many **vintage lenses** are good candidates too, and can be even cheaper.
 
 However, you need to do your own homework.
 
@@ -164,39 +167,32 @@ We need a piece of glass to hold the film flat on the light table.
 
 #### But what about newton rings???????
 
-We scan with emulsion/matte/curled side up, and that helps a lot.
+We scan with emulsion/matte/curled side up, it helps a lot.
 
-I would suggest start with cheap plain glass, you can always upgrade to ANR glass down the line.
+I suggest starting with cheap plain glass, you can always upgrade to ANR glass down the line.
 
-## Preparing the Traffic Cone
+## Preparing the Cone
 
-This article assumes that you already have some 3D printing experience, so I'm not going into too much details. If this is your first time, there are a lot of resources online.
+For best results, the cone should be adjusted to your specific lens / film format combo.
 
 ### I already have the Laowa 65mm f/2.8!
 
-Great! You're ready to go.
+Great! You're good to go.
 
 Pick a file below and go to the next section.
 
-[35mm full frame (no sprocket)]()
-
-[120 645] under construction
-
-[120 6x6]()
-
-[120 6x7]()
-
-[120 6x9]()
-
-[35mm sprocket pano on 120 6x6]()
-
+* [35mm full frame (no sprocket)]()
+* [120 645] under construction
+* [120 6x6]()
+* [120 6x7]()
+* [120 6x9]()
+* [35mm sprocket pano on 120 6x6]()
 
 ### I'm using my own lens / I want to customize!
 
-take a look at this article to customize the cone to your specific lens.
+[Click me to learn how to customize your cone.](cone_customization.md)
 
-
-## Printing the Traffic Cone
+## Printing the Cone
 
 * Use opaque **black** filament, PLA works just fine.
 
@@ -204,9 +200,9 @@ take a look at this article to customize the cone to your specific lens.
 
 * 10% to 20% infill is plenty.
 
-* Around 2 hours for 35mm cone on my Ender3 S1 Pro.
+* Around 2 hours for the 35mm cone on my Ender3 S1 Pro.
 
-## Assembling the Traffic Cone
+## Assembling the Cone
 
 Place the cone on the light table
 
@@ -227,7 +223,7 @@ rest the cone on a flat surface (NOT LIGHT TABLE), apply pressure to push all th
 the cone should grip the lens hood tightly. if too loose, adjust the parameters and print a new one, or just glue it together with superglue.
 
 
-## Scanning Using the Traffic Cone
+## Scanning Procedures
 
 custom white balance to the light table, take a blank photo.
 
