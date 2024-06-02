@@ -164,34 +164,74 @@ We need a piece of glass to hold the film flat on the light table.
 
 #### But what about newton rings???????
 
-We scan with emulsion/matte/curled side up, and that seems to do the job.
+We scan with emulsion/matte/curled side up, and that helps a lot.
 
 I would suggest start with cheap plain glass, you can always upgrade to ANR glass down the line.
 
-## Printing the Traffic Cone
+## Preparing the Traffic Cone
 
-With everything else sorted, it's time to print a traffic cone for your lens!
+This article assumes that you already have some 3D printing experience, so I'm not going into too much details. If this is your first time, there are a lot of resources online.
 
-### I have the Laowa 65mm f/2.8!
+### I already have the Laowa 65mm f/2.8!
 
-Great! 
+Great! You're ready to go.
 
-Download the STL files
+Pick a file below and go to the next section.
 
-35mm
-6x6
-6x7
-6x9
+[35mm full frame (no sprocket)]()
 
-bottom plate dimension should be 90x90mm
+[120 645] under construction
 
-### I'm using some other lens!
+[120 6x6]()
+
+[120 6x7]()
+
+[120 6x9]()
+
+[35mm sprocket pano on 120 6x6]()
+
+
+### I'm using my own lens / I want to customize!
 
 take a look at this article to customize the cone to your specific lens.
 
-Load up the model in your slicer. It should be very easy to print, so don't be afraid to turn up the speed.
 
-## Putting everything together
+## Printing the Traffic Cone
+
+* Use opaque **black** filament, PLA works just fine.
+
+* Very simple model, turn up the speed if you want.
+
+* 10% to 20% infill is plenty.
+
+* Around 2 hours for 35mm cone on my Ender3 S1 Pro.
+
+## Assembling the Traffic Cone
+
+Place the cone on the light table
+
+attach the lens hood to your camera, moderately tight
+
+**Loosely** rest the camera on the cone, **DO NOT** push all the way in yet!
+
+plain table no film, adjust focus, ensure the border of the film mask is aligned with the frame
+
+Mark the position of the cone
+
+unscrew and remove the lens hood from camera
+
+make sure the position mark is still aligned
+
+rest the cone on a flat surface (NOT LIGHT TABLE), apply pressure to push all the way in
+
+the cone should grip the lens hood tightly. if too loose, adjust the parameters and print a new one, or just glue it together with superglue.
+
+
+
+
+## Scanning Using the Traffic Cone
+
+## Tips and Tricks
 
 assembly
 
