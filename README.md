@@ -197,11 +197,19 @@ sample file name: laowa_65mm_2.8_APSC-35mm.stl
 
 If you don't have a 3D printer, try local library, makerspace, or online printing services.
 
-* Use opaque **black** filament, PLA works just fine.
+* Use **opaque black** filament, PLA works just fine.
 
-* Around 10-20% infill, no need to go crazy.
+* Around 10-20% infill
 
-* Very simple model, turn up the speed if you want.
+* Very simple shape, turn up the speed if you want.
+
+After 2 hours, voilà:
+
+![Alt text](photos/voila.jpeg)
+
+Trim whiskers
+
+matte inside?
 
 ## Assembling the Cone
 
