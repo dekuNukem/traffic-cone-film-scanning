@@ -216,7 +216,7 @@ attach the lens hood to your camera, moderately tight
 
 plain table no film, adjust focus, ensure the border of the film mask is aligned with the frame
 
-Mark the position of the cone
+Mark the position of the cone, white marker, or just a scratch mark.
 
 unscrew and remove the lens hood from camera
 
@@ -227,13 +227,48 @@ rest the cone on a flat surface (NOT LIGHT TABLE), apply pressure to push all th
 the cone should grip the lens hood tightly. if too loose, adjust the parameters and print a new one, or just glue it together with superglue.
 
 
-
-
 ## Scanning Using the Traffic Cone
+
+custom white balance to the light table, take a blank photo.
+
+Dust management
+
+Use gloves
+
+Carefully clean glass and light table with chamois leather, does not shed lint like microfiber. make sure real chamois. not too expensive
+
+place negatives emulsion side up, it should be matt, flipped frame number looking down.
+
+place glass on top.
+
+attach cone.
+
+
+place camera over the negative.
+
+focus, focus assist, peaking with magnification absolutly essential. very littlemargin for error. look for where the assist it strongest.
+
+aparture: very important. around F8, wide open lower image quality harder to focus. too small diffraction makes it blurry.
+
+ISO: reduce noise, as low as possible, anything below 200 is plenty.
+
+exposure, not too sure, center weighted autoexposure close enough.
+
+make sure use RAW format
+
+short self timer with remote release
+
+change all the settings before focusing. once in focus touch as little as possible.
+
+move the whole thing around the glass.
 
 ## Tips and Tricks
 
-assembly
+checklist
+
+white balance correct?
+ISO as small as possible
+
 
 
 
