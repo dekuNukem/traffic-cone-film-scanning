@@ -107,13 +107,12 @@ For best results, I recommend:
 
 You can always drop 4 figures on a flagship first-party lens, but for film scanning it's a bit overkill.
 
-
 Personally I use [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.net/product/laowa-65mm-f-2-8-2x-ultra-macro-apo/).
 
 * 2x MR
 * Superb image quality
 * **Ready-to-print** cones!
-* Around $350
+* Around $330
 
 ![Alt text](photos/laowa.jpg)
 
@@ -127,15 +126,15 @@ Another popular option is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store
 
 Both are fully manual and popular with film digitization.
 
+Get them cheaper on ebay or aliexpress.
+
 The extra magnification of laowa can be handy for subminiature formats such as 110, 16mm, or disk films.
 
 -----------------
 
 Many **vintage lenses** are good candidates too, and can be even cheaper.
 
-However, you need to do your own homework.
-
-Search `Film scanning macro lens` on google.
+However, you need to do your own homework. Search `Film scan macro lens` on google.
 
 [This article has a fairly extensive tier list](https://web.archive.org/web/20240206003914/https://www.pixl-latr.com/how-good-a-macro-lens-do-you-really-need-for-dslr-mirrorless-camera-scanning/).
 
@@ -170,15 +169,17 @@ We scan with emulsion/matte/curled side up, helps a lot.
 
 I suggest starting with cheap plain glass, you can always upgrade to ANR glass down the line.
 
-## Preparing the Cone
+## Cone Preparation
 
 For best results, the cone should be adjusted to your specific lens / film format combo.
 
-### I already have the Laowa 65mm f/2.8!
+### I bought one ready-made!
 
-Great! You're good to go.
+Great, [skip to the next section](#assembling-the-cone).
 
-Pick a file below and go to the next section.
+### I have the Laowa 65mm f/2.8!
+
+Great! Download what you need and go to the next section.
 
 * [35mm full frame (no sprocket)]()
 * [120 645] under construction
@@ -188,6 +189,15 @@ Pick a file below and go to the next section.
 * [35mm sprocket pano on 120 6x6]()
 
 sample file name: laowa_65mm_2.8_APSC-35mm.stl
+
+### I have the 7Artisans 60mm f/2.8 MK II!
+
+* [35mm full frame (no sprocket)]()
+* [120 645] under construction
+* [120 6x6]()
+* [120 6x7]()
+* [120 6x9]()
+* [35mm sprocket pano on 120 6x6]()
 
 ### I'm using my own lens / I want to customize!
 
@@ -201,25 +211,31 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 
 * Around 10-20% infill
 
-* Very simple shape, turn up the speed if you want.
+* Very simple design, turn up the speed if you want.
 
-After 2 hours, voilà:
+2 hours later, voilà:
 
 ![Alt text](photos/voila.jpeg)
 
-Trim whiskers
+* Double check the base is **completely flat**.
 
-matte inside?
+* It **must not** wobble when placed on flat surface.
 
-## Assembling the Cone
+* If warped, improve bed adhesion. Re-level, hairspray, raft, etc.
+
+* Remove any loose strands of stringing/hair/whiskers near the film gate.
+
+## Cone Assembly
 
 Place the cone on the light table
 
 attach the lens hood to your camera, moderately tight
 
-**Loosely** rest the camera on the cone, **DO NOT** push all the way in yet!
+plain table no film, hold camera just above the cone, adjust focus, ensure the border of the film mask is aligned with the frame
 
-plain table no film, adjust focus, ensure the border of the film mask is aligned with the frame
+lower and **loosely** rest the camera on the cone, **DO NOT** push all the way in yet!
+
+double check the framing is still straight
 
 Mark the position of the cone, white marker, or just a scratch mark.
 
@@ -228,6 +244,8 @@ unscrew and remove the lens hood from camera
 make sure the position mark is still aligned
 
 rest the cone on a flat surface (NOT LIGHT TABLE), apply pressure to push all the way in
+
+make sure it is bottomed out and flat and level
 
 the cone should grip the lens hood tightly. if too loose, adjust the parameters and print a new one, or just glue it together with superglue.
 
