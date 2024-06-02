@@ -140,7 +140,7 @@ However, you need to do your own homework. Search `Film scan macro lens` on goog
 
 ## Lens Hood
 
-We also need a lens hood to attach the cone to.
+We need a lens hood to attach the cone to.
 
 * Same diameter as your lens
 * **Circular** shape
@@ -154,7 +154,7 @@ Just get the cheapest from ebay or aliexpress, they are all the same.
 
 ## Flat Glass
 
-We need a piece of glass to hold the film flat on the light table.
+We also need a piece of glass to hold the film flat on the light table.
 
 * Around 2mm thickness
 * At least 8x10 in size
