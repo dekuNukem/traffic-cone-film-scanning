@@ -11,7 +11,7 @@ This guide shows you how to customize the cone to **your particular lens and fil
 
 ## Install Autodesk Fusion
 
-Autodesk Fusion is a popular software for designing parts for 3D printing.
+Autodesk Fusion is a popular CAD software for designing 3D parts.
 
 We're going to install the free version, customize the traffic cone, and 3D print the result.
 
@@ -46,10 +46,53 @@ Create a free personal-use account, download, and install.
 
 ![Alt text](photos/parameters_35mm.png)
 
-* Changing the values here will change how the cone looks. 
-
+* Don't touch anything yet!
+* Changing the values here will alter how the cone looks. 
 * But first, we need to do some measurements.
 
 ## Measurements
+
+In this example, I want to make a cone for **645** format with `Laowa 65mm f/2.8` and `Fuji X-T4`.
+
+* Light panel flat on table, turn on.
+* Film under glass
+* Don't worry about dust yet, it's only for measurement.
+* Install lens hood
+
+![Alt text](photos/measurestart.jpeg)
+
+* Camera on
+* Point straight down
+* As best as you can, adjust height and focus, until the photo:
+	* Fills most of the frame, AND
+	* In focus
+* Leave a little space on the edge to make alignment easier 
+
+![Alt text](photos/heightfocus.png)
+
+* Measure the distance from **glass to lip of lens hood** in **cm**
+* Probably easier with two people
+
+![Alt text](photos/ruler.jpeg)
+
+This will be the **height** of the cone. Around 16cm in this case.
+
+Write it down.
+
+----
+
+Next, use a caliper, measure the **inner** and **outer diameter** of the hood in **mm**.
+
+![Alt text](photos/hoodin.jpeg)
+
+![Alt text](photos/hoodout.jpeg)
+
+Write those down as well.
+
+That's it! We're done.
+
+## Parameter Adjustment
+
+Back in Autodesk Fusion
 
 
