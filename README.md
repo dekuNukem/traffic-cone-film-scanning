@@ -318,5 +318,13 @@ ISO as small as possible
 ## Troubleshooting / Q&A
 
 
+## License Notice
 
+The **scanning cone** design is under [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/deed.en)
 
+You can:
+
+* Share, modify, and redistribute the material, even commercially.
+* **AS LONG AS** you give appropriate credit to me (dekuNukem) and this page.
+
+Please note: The sample photos are **NOT** under CC BY 4.0 and are all rights reserved.

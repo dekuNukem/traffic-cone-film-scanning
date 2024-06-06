@@ -31,7 +31,7 @@ Create a free personal-use account, download, and install.
 
 ![Alt text](photos/frompc.png)
 
-* Download the [template cone](https://github.com/dekuNukem/cone/raw/master/3d_models/cone_template_fusion360.f3d) and select it.
+* Download the [template cone](https://github.com/dekuNukem/cone/raw/master/3d_models/cone_template.f3d) and select it.
 * It should load up.
 * Drag the viewcube to look around. Click on a face to snap to side view.
 
