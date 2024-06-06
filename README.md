@@ -23,7 +23,8 @@ TCFS is a low-cost 3D-printable alternative that produces high-quality results a
 
 * **Low cost**: $1 in filaments, $50 all-in.
 * **Space-saving**: No tripods or copystands.
-* **No calibration**: Fixed distance, always square, no fiddling.
+* **No calibration**: Fixed distance, always square.
+* **Fully enclosed**: No stray lights.
 * **Multi format**: 110, 126, 35mm, 645, 6x6, 6x7, 6x9, sprockets, and more!
 
 ## Samples
@@ -54,45 +55,11 @@ This is not a turn-key solution. You need to be a bit handy:
 
 Let's get started! The setup involves:
 
-* Light Table
 * Macro Lens
 * Lens Hood
+* Light Table
 * Flat Glass
 * The Cone
-
-This article assumes that you already have some 3D printing experience, so I'm not going into too much details. If this is your first time, there are a lot of resources online.
-
-## Light Table
-
-A bright and even light source is needed to illuminate the film from behind.
-
-You can spend a lot on the usual suspects that sponsor Youtube videos.
-
-Instead, I recommend getting a **LED Light Panel** for office ceilings.
-
-They are a lot cheaper, and give you a massive area to work with.
-
-![Alt text](photos/panel.png)
-
-* Make sure it's **High-CRI** (>95)
-
-* Neutral color temperature (**Around 5000K**)
-
-* Matte surface finish (pretty sure all of them are)
-
-* Standard size is 600x600mm / 24x24in 
-
-* Smaller ones available, but I like it big!
-
-![Alt text](photos/space.jpeg)
-
-They to come with a power adapter where you need to wire it up manually
-
-no mains voltage inside panel, making it safer to handle
-
-L for live, N for neutral, E for earth (may not in use)
-
-look up how to wire up a plug of your particular country on youtube
 
 ## Macro Lens
 
@@ -109,7 +76,7 @@ For best results, I recommend:
 
 * A 1:1 (1x) ratio means the lens can project the **actual size of the subject** onto the sensor
 * At 2:1 (2x), the subject can be projected **twice as big** on the sensor
-* Therefore, a decent MR is helpful for scanning smaller formats (35mm and under).
+* Therefore, a decent MR is beneficial for smaller formats (35mm and under).
 
 -------
 
@@ -136,7 +103,7 @@ Both are fully manual and popular with film digitization.
 
 Get them cheaper on ebay or aliexpress.
 
-The extra magnification of laowa can be handy for subminiature formats such as 110, 16mm, or disk films.
+The extra magnification of laowa can be handy for subminiature formats such as 110, half-frame, or disk films.
 
 -----------------
 
@@ -160,9 +127,57 @@ Just get the cheapest from ebay or aliexpress, they are all the same.
 
 ![Alt text](photos/hood.png)
 
+## Light Table
+
+A bright and even light source is needed to illuminate the film from behind.
+
+You can spend a lot on the usual suspects that sponsor Youtube videos.
+
+Instead, I recommend getting a **LED Light Panel** for office ceilings.
+
+They are a lot cheaper, and give you a massive area to work with.
+
+![Alt text](photos/panel.png)
+
+* Make sure it's **High-CRI** (>95)
+
+* Neutral color temperature (**Around 5000K**)
+
+* Flat matte surface finish (pretty sure they all are)
+
+* Standard size is 600x600mm / 24x24in 
+
+* Smaller ones available, but I like it big!
+
+![Alt text](photos/space.jpeg)
+
+The LED panel comes with a power adapter, into which you wire up a plug.
+
+⚠️ ⚡ Mains voltage is involved! 
+
+⚠️ ⚡ Make sure you know what you're doing!
+
+⚠️ ⚡ Look up how to wire a plug in your country.
+
+![Alt text](photos/psu.jpg)
+
+Generally:
+
+* Brown is **LIVE**
+* Blue is **NEUTRAL**
+* Green/Yellow is **EARTH**
+
+You can use a regular plug and turn it on/off at the power strip.
+
+Or an inline switch like this to be extra fancy!
+
+![Alt text](photos/sw.jpg)
+
+* Remember to **twist-lock** the output jack so it stays in place
+
 ## Flat Glass
 
-We also need a piece of glass to hold the film flat on the light table.
+We need a piece of glass to hold the film flat on the light table.
 
 * Around 2mm thickness
 * At least 8x10 in size
