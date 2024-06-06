@@ -13,7 +13,7 @@ This guide shows you how to customize the cone to **your particular lens and fil
 
 Autodesk Fusion is a popular CAD software for designing 3D parts.
 
-We're going to install the free version, customize the traffic cone, and 3D print the result.
+We're going to install the free version, customize the traffic cone, and print the result.
 
 Go to this link:
 
@@ -31,7 +31,7 @@ Create a free personal-use account, download, and install.
 
 ![Alt text](photos/frompc.png)
 
-* Download the [template cone](https://github.com/dekuNukem/cone/raw/master/3d_models/cone_template.f3d) and select it.
+* Download the [template cone](https://github.com/dekuNukem/traffic-cone-film-scanning/raw/master/3d_models/cone_template.f3d) and select it.
 * It should load up.
 * Drag the viewcube to look around. Click on a face to snap to side view.
 
