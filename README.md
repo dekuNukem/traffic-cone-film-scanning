@@ -86,6 +86,14 @@ They are a lot cheaper, and give you a massive area to work with.
 
 ![Alt text](photos/space.jpeg)
 
+They to come with a power adapter where you need to wire it up manually
+
+no mains voltage inside panel, making it safer to handle
+
+L for live, N for neutral, E for earth (may not in use)
+
+look up how to wire up a plug of your particular country on youtube
+
 ## Macro Lens
 
 Obviously, the quality of the scan largely depends on the lens.
