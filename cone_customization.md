@@ -93,6 +93,10 @@ That's it! We're done.
 
 ## Parameter Adjustment
 
-Back in Autodesk Fusion
+Back in Autodesk Fusion.
+
+We can now customize the cone with the values we just measured.
+
+
 
 
