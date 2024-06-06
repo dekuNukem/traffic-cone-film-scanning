@@ -32,8 +32,8 @@ Create a free personal-use account, download, and install.
 ![Alt text](photos/frompc.png)
 
 * Download the [template cone](https://github.com/dekuNukem/traffic-cone-film-scanning/raw/master/3d_models/cone_template.f3d) and select it.
-* It should load up.
-* Drag the viewcube to look around. Click on a face to snap to side view.
+* Feel free to drag the viewcube to look around.
+* Click on a edge/corner/face to snap to view point.
 
 ![Alt text](photos/tempcone.png)
 
@@ -66,12 +66,12 @@ In this example, I want to make a cone for **645** format with `Laowa 65mm f/2.8
 * As best as you can, adjust height and focus, until the photo:
 	* Fills most of the frame, AND
 	* In focus
-* Leave a little space on the edge to make alignment easier 
+* Leave a little space near the edge to make alignment easier 
 
 ![Alt text](photos/heightfocus.png)
 
+* Hold steady
 * Measure the distance from **glass to lip of lens hood** in **cm**
-* Probably easier with two people
 
 ![Alt text](photos/ruler.jpeg)
 
