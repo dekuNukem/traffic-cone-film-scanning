@@ -15,8 +15,8 @@ TCFS is a low-cost 3D-printable alternative that produces high-quality results a
 * Print a cone
 * Attach to lens hood
 * Attach to macro lens
-* Film flat under glass
-* Camera rests on cone pointing straight down
+* Film under glass
+* Camera on cone, pointing straight down.
 * Focus and shoot!
 
 ## Advantages
@@ -43,12 +43,12 @@ Suffice to say, the results speak for themselves!
 
 ## So What's the Catch?
 
-This is not a turn-key solution. You need to be a bit handy:
+This is not a turn-key solution.
+
+For most cost effectiveness, you need to be a bit handy:
 
 * Basic DIY skills: Wire a plug, using a caliper, etc.
-
 * Access to 3D printer (Your own / local library / makerspace)
-
 * Know basics of 3D printing (or have someone do it for you)
 
 ## Sounds Great, I'm In!
@@ -76,7 +76,7 @@ For best results, I recommend:
 
 * A 1:1 (1x) ratio means the lens can project the **actual size of the subject** onto the sensor
 * At 2:1 (2x), the subject can be projected **twice as big** on the sensor
-* Therefore, a decent MR is beneficial for smaller formats (35mm and under).
+* Therefore, a decent MR is useful for smaller formats (35mm and under).
 
 -------
 
@@ -117,7 +117,7 @@ However, you need to do your own homework. Search `Film scan macro lens` on goog
 
 We need a lens hood to attach the cone to.
 
-* Same diameter as your lens
+* Fits your lens
 * **Circular** shape
 * **Fully enclosed**
 * One-piece **metal** (not collapsible)
@@ -151,7 +151,7 @@ They are a lot cheaper, and give you a massive area to work with.
 
 ![Alt text](photos/space.jpeg)
 
-The LED panel comes with a power adapter, into which you wire up a plug.
+The LED panel comes with a power adapter, into which you need to wire up a plug.
 
 ⚠️ ⚡ Mains voltage is involved! 
 
@@ -180,15 +180,15 @@ Or an inline switch like this to be extra fancy!
 We need a piece of glass to hold the film flat on the light table.
 
 * Around 2mm thickness
-* At least 8x10 in size
+* At least 8x10 in size, mine is 11x14.
 * Make sure it's **glass** NOT acrylic
-* I got mine from a cheap picture frame
+* I got mine from a picture frame at a thrift store
 
 ![Alt text](photos/frame.jpg)
 
-#### But what about newton rings???????
+#### OMG what about newton rings???????
 
-We scan with emulsion/matte/curled side up, helps a lot.
+We scan with emulsion side up, along with the setup I'm going to cover later, seems to helps a lot.
 
 I suggest starting with cheap plain glass, you can always upgrade to ANR glass down the line.
 
@@ -228,66 +228,112 @@ sample file name: laowa_65mm_2.8_APSC-35mm.stl
 
 ## Printing the Cone
 
+Now you have the model, time to print it!
+
 If you don't have a 3D printer, try local library, makerspace, or online printing services.
 
 * Use **opaque black** filament, PLA works just fine.
-
 * Around 10-20% infill
-
 * Very simple design, turn up the speed if you want.
 
 2 hours later, voilà:
 
 ![Alt text](photos/voila.jpeg)
 
+* Wait for the bed to cool down before removing.
 * Double check the base is **completely flat**.
-
 * It **must not** wobble when placed on flat surface.
-
 * If warped, improve bed adhesion. Re-level, hairspray, raft, etc.
-
 * Remove any loose strands of stringing/hair/whiskers near the film gate.
 
 ## Cone Assembly
 
-Place the cone on the light table
+* First, remove filament whiskers **near the film gate**, if any.
+* Whiskers higher up won't show up, no need to worry about them.
 
-attach the lens hood to your camera, moderately tight
+-----
 
-plain table no film, hold camera just above the cone, adjust focus, ensure the border of the film mask is aligned with the frame
+* Put the cone on the light table
+* Attach the lens hood to your lens, moderately tight
 
-lower and **loosely** rest the camera on the cone, **DO NOT** push all the way in yet!
+![Alt text](photos/.jpeg)
 
-double check the framing is still straight
+* Hover the camera **just above** the cone, adjust focus
+* Until the film gate is **parallel** with camera frame
 
-Mark the position of the cone, white marker, or just a scratch mark.
+![Alt text](photos/.jpeg)
 
-unscrew and remove the lens hood from camera
+* Lower and **loosely** rest the camera on the cone, **DO NOT** push all the way in yet!
+* Double check the framing is still straight
+* Mark the position of the cone with paint marker, or a scratch mark.
 
-make sure the position mark is still aligned
+![Alt text](photos/.jpeg)
 
-rest the cone on a flat surface (NOT LIGHT TABLE), apply pressure to push all the way in
+* Unscrew the lens hood
+* Rest the cone on a flat surface (**NOT LIGHT TABLE**)
+* Make sure the position mark is still aligned
+* Push the lens hood all the way in
+* Make sure it **bottoms out** and **flat and level**
 
-make sure it is bottomed out and flat and level
+![Alt text](photos/.jpeg)
 
-the cone should grip the lens hood tightly. if too loose, adjust the parameters and print a new one, or just glue it together with superglue.
+The cone should grip the lens hood tightly. 
 
+If too loose, adjust the parameters and print a new one, or just fill the gap with superglue.
+
+## Scanning Prerequisites
+
+The cone is ready! But before start scanning, we need to set up a few things.
+
+### Light Panel
+
+Put the light table on a flat surface.
+
+If the power jack sticks out, let it hang off the edge. Double check it is **twist-locked**.
+
+![Alt text](photos/.jpeg)
+
+The panel should be flat and not wobble.
+
+### White Balance
+
+Set a **custom white balance** to your light table.
+
+Usually involves taking a picture of the blank table. Look up camera user manual.
+
+### RAW Output
+
+Select RAW output format for best quality, needed for most converting software.
+
+![Alt text](photos/.jpeg)
+
+### Dust Management
+
+We have many potential surfaces for dust (table, film, glass), so it is crucial to be as clean as possible.
+
+#### WEAR GLOVES
+
+* **DO NOT** touch film / glass with bare hands!
+* I use disposable gloves, reusable gloves works too, but they might shed lints.
+
+#### Wipe-down
+
+* Get some **Chamois Leather**. Inexpensive, but make sure it's real.
+* Microfibre cloths works too, but they might also shed lints. 
+* Before a scanning session, wipe clean the light table and glass (both sides).
 
 ## Scanning Procedures
 
-custom white balance to the light table, take a blank photo.
+* Attach cone to the camera by screwing on the lens hood.
 
-Dust management
+* Wear gloves, wipe down the glass and light table with chamois leather to reduce dust.
 
-Use gloves
+* Place film strips **emulsion side up** near the **center** of the light table.
 
-Carefully clean glass and light table with chamois leather, does not shed lint like microfiber. make sure real chamois. not too expensive
+	* Looking down, the picture/frame-number should **look mirrored**.
 
-place negatives emulsion side up, it should be matt, flipped frame number looking down.
+* Place glass on top.
 
-place glass on top.
-
-attach cone.
 
 
 place camera over the negative.

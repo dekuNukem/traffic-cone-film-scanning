@@ -8,7 +8,6 @@ This guide shows you how to customize the cone to **your particular lens and fil
 
 **Ready-to-print** cones are available for `Laowa 65mm f/2.8 2x Ultra Macro APO` and `7Artisans 60mm f/2.8 Mark II`
 
-
 ## Install Autodesk Fusion
 
 Autodesk Fusion is a popular CAD software for designing 3D parts.
@@ -81,7 +80,7 @@ Write it down.
 
 ----
 
-Next, use a caliper, measure the **inner** and **outer diameter** of the hood in **mm**.
+Next, use a caliper, measure the **inner** and **outer diameter** of the **outward facing rim** of the lens hood in **mm**.
 
 ![Alt text](photos/hoodin.jpeg)
 
@@ -105,7 +104,7 @@ Back in Autodesk Fusion. We can now customize the cone with the values we just m
 
 #### `tube_height`
 
-* Height of the cone in mm you measured
+* Height of the cone you measured, in **mm**.
 * 1cm = 10mm
 
 #### `hood_inner_dia` and `hood_outer_dia`
@@ -142,5 +141,9 @@ We can now 3D print the new cone!
 * Export STL file, or send directly to a slicer.
 
 ![Alt text](photos/3dmenu.png)
+
+* Press `Save` icon to save a copy
+
+![Alt text](photos/save.png)
 
 With your very own traffic cone, go back and continue on the main guide!
