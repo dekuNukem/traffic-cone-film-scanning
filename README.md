@@ -334,7 +334,12 @@ We have many potential surfaces for dust (table, film, glass), so it is crucial 
 
 * Place glass on top.
 
-
+* Double check camera settings:
+	
+	* Custom white balance
+	* RAW output
+	* Manual focus mode
+	
 
 place camera over the negative.
 
