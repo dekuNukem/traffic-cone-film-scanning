@@ -22,7 +22,7 @@ TCFS is a low-cost 3D-printable alternative that produces high-quality results a
 ## Advantages
 
 * **Low cost**: $1 in filaments, $50 all-in.
-* **Space-saving**: No tripods or copystands.
+* **Space-saving**: No tripods or copystands, quick setup.
 * **No calibration**: Fixed distance, always square.
 * **Fully enclosed**: No stray lights, no reflection.
 * **Multi format**: 110, 126, 35mm, 645, 6x6, 6x7, 6x9, sprockets, and more!
@@ -39,13 +39,9 @@ Fuji XT4 + Laowa 65mm f/2.8
 
 ![Alt text](photos/cloud.jpeg)
 
-Suffice to say, the results speak for themselves!
-
 ## So What's the Catch?
 
-This is not a turn-key solution.
-
-For most cost effectiveness, you need to be a bit handy:
+This is not a turn-key solution, and you need to be a bit handy:
 
 * Basic DIY skills: Wire a plug, using a caliper, etc.
 * Access to 3D printer (Your own / local library / makerspace)
@@ -244,11 +240,10 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 * Double check the base is **completely flat**.
 * It **must not** wobble when placed on flat surface.
 * If warped, improve bed adhesion. Re-level, hairspray, raft, etc.
-* Remove any loose strands of stringing/hair/whiskers near the film gate.
 
 ## Cone Assembly
 
-* First, remove filament whiskers **near the film gate**, if any.
+* First, remove any filament whiskers **near the film gate**.
 * Whiskers higher up won't show up, no need to worry about them.
 
 -----
@@ -299,7 +294,7 @@ The panel should be flat and not wobble.
 
 Set a **custom white balance** to your light table.
 
-Usually involves taking a picture of the blank table. Look up camera user manual.
+Usually involves taking a picture of the blank table. Refer to user manual.
 
 ### RAW Output
 
@@ -309,7 +304,7 @@ Select RAW output format for best quality, needed for most converting software.
 
 ### Dust Management
 
-We have many potential surfaces for dust (table, film, glass), so it is crucial to be as clean as possible.
+We have a few potential surfaces for dust, so it is crucial to be as clean as possible.
 
 #### WEAR GLOVES
 
@@ -339,7 +334,7 @@ We have many potential surfaces for dust (table, film, glass), so it is crucial 
 	* Custom white balance
 	* RAW output
 	* Manual focus mode
-	
+
 
 place camera over the negative.
 
