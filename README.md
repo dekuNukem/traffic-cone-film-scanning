@@ -12,7 +12,7 @@ Scanning using a digital camera is popular, but a conventional setup can cost [h
 
 TCFS is a low-cost 3D-printable alternative that produces high-quality results at a fraction of the price.
 
-![Alt text](photos/title.png)
+![Alt text](images/title.png)
 
 ## How It Works
 
@@ -44,19 +44,19 @@ Fuji XT4 + Laowa 65mm f/2.8
 
 35mm
 
-![Alt text](photos/crow.jpeg)
+![Alt text](sample_scans/crow.jpeg)
 
 35mm Sprocket Pano
 
-![Alt text](photos/beware.jpeg)
+![Alt text](sample_scans/beware.jpeg)
 
 6x6 Negative
 
-![Alt text](photos/tail.jpeg)
+![Alt text](sample_scans/tail.jpeg)
 
 6x6 Slide
 
-![Alt text](photos/cloud.jpeg)
+![Alt text](sample_scans/cloud.jpeg)
 
 ## So What's the Catch?
 
@@ -127,7 +127,7 @@ A popular choice is [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.
 * **Ready-to-print** cones!
 * Around $330
 
-![Alt text](photos/laowa.jpg)
+![Alt text](images/laowa.jpg)
 
 Another one is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store/products/7artisans-60mm-f2-8-mark-ii-macro-lens-for-sony-e-fuji-fx-canon-eos-m-olympus-m43-nikon-z-mirrorless-cameras):
 
@@ -136,7 +136,7 @@ Another one is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store/products/7
 * **Ready-to-print** cones!
 * Around $160
 
-![Alt text](photos/7art.png)
+![Alt text](images/7art.png)
 
 I have both, and personally I prefer the Laowa:
 
@@ -167,7 +167,7 @@ We need a lens hood to attach the cone to.
 
 Just get the cheapest from ebay or aliexpress, they are all the same. 
 
-![Alt text](photos/hood.png)
+![Alt text](images/hood.png)
 
 ## Light Table
 
@@ -179,7 +179,7 @@ Instead, I recommend getting a **LED Light Panel** for office ceilings.
 
 They are a lot cheaper, and give you a massive area to work with.
 
-![Alt text](photos/panel.png)
+![Alt text](images/panel.png)
 
 * Make sure it's **High-CRI** (>95)
 
@@ -191,7 +191,7 @@ They are a lot cheaper, and give you a massive area to work with.
 
 * Smaller ones available, but I like it big!
 
-![Alt text](photos/space.jpeg)
+![Alt text](images/space.jpeg)
 
 The LED panel comes with a power adapter. You need to wire a plug to it.
 
@@ -201,7 +201,7 @@ The LED panel comes with a power adapter. You need to wire a plug to it.
 
 ⚠️ ⚡ Look up how to wire a plug in your country.
 
-![Alt text](photos/psu.jpg)
+![Alt text](images/psu.jpg)
 
 Generally:
 
@@ -211,13 +211,13 @@ Generally:
 
 Toolless lever-actuated connectors like WAGO 221 is very useful for making connections without soldering. Very inexpensive too.
 
-![Alt text](photos/toolless.jpg)
+![Alt text](images/toolless.jpg)
 
 You can use a regular plug, and turn it on/off at the power strip.
 
 Or an inline switch like this to be extra fancy!
 
-![Alt text](photos/sw.jpg)
+![Alt text](images/sw.jpg)
 
 * Remember to **twist-lock** the output jack so it stays in place
 
@@ -230,7 +230,7 @@ We need a piece of glass to hold the film flat on the light table.
 * Make sure it's **glass** NOT acrylic
 * I got mine from a picture frame at a thrift store
 
-![Alt text](photos/frame.jpg)
+![Alt text](images/frame.jpg)
 
 #### But what about newton rings???????
 
@@ -277,7 +277,7 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 
 2 hours later, voilà:
 
-![Alt text](photos/voila.jpeg)
+![Alt text](images/voila.jpeg)
 
 * Wait for the bed to cool down before removing.
 * Double check the base is **completely flat**.
@@ -288,7 +288,7 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 
 * First, remove any filament whiskers/strands **near the film gate**.
 
-![Alt text](photos/strands.jpeg)
+![Alt text](images/strands.jpeg)
 
 * Whiskers higher up won't show up, leave them if you want.
 
@@ -297,19 +297,19 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 * Put the cone on the light table
 * Attach the lens hood to your lens, moderately tight
 
-![Alt text](photos/conecam.jpeg)
+![Alt text](images/conecam.jpeg)
 
 * Hover the camera just over the cone, barely touching.
 * Adjust focus and position.
 * Until the film gate is **parallel** with camera frame
 
-![Alt text](photos/hold.jpeg)
+![Alt text](images/hold.jpeg)
 
-![Alt text](photos/frame.png)
+![Alt text](images/frame.png)
 
 * Mark the position of the cone with paint marker, or a scratch mark.
 
-![Alt text](photos/mark.jpeg)
+![Alt text](images/mark.jpeg)
 
 * Unscrew the lens hood
 * Put the cone on a flat surface (**NOT LIGHT TABLE**)
@@ -317,7 +317,7 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 * Push the lens hood all the way in
 * Make sure it **bottoms out** and **flat and level**
 
-![Alt text](photos/push.jpeg)
+![Alt text](images/push.jpeg)
 
 The cone should grip the lens hood tightly. 
 
@@ -335,7 +335,7 @@ Put the light table on a flat surface.
 
 If the power jack sticks out, let it hang off the edge. Double check it is **twist-locked**.
 
-![Alt text](photos/table.jpeg)
+![Alt text](images/table.jpeg)
 
 The panel should be flat and not wobble.
 
@@ -349,7 +349,7 @@ Usually involves taking a picture of the blank table. Refer to user manual.
 
 Select RAW output format for best quality, needed for most converting software.
 
-![Alt text](photos/raw.png)
+![Alt text](images/raw.png)
 
 ### Focus Assist
 
@@ -359,7 +359,7 @@ We are going to manually focus on the negative.
 
 Make sure it's on, and blue has good contrast with orange negatives.
 
-![Alt text](photos/mf.png)
+![Alt text](images/mf.png)
 
 ### Dust Management
 
@@ -371,7 +371,7 @@ We have a few potential surfaces for dust, so it is crucial to be as clean as po
 * I use disposable gloves, make sure its **powder-free**.
 * Reusable gloves works too, but may shed lint.
 
-![Alt text](photos/glove.jpg)
+![Alt text](images/glove.jpg)
 
 #### Wipe-down
 
@@ -379,7 +379,7 @@ We have a few potential surfaces for dust, so it is crucial to be as clean as po
 * I use **Chamois Leather**. They are inexpensive, but make sure it's real.
 * Microfibre cloths works too, but I find them shed a lot of lint. 
 
-![Alt text](photos/leather.jpg)
+![Alt text](images/leather.jpg)
 
 ## Scanning Procedures
 
@@ -397,11 +397,11 @@ Finally! Let's start.
 
 	* Place near the **CENTER** of the light table
 
-![Alt text](photos/strips.jpeg)
+![Alt text](images/strips.jpeg)
 
 * Place glass on top. Ensure **no overlapping**
 
-![Alt text](photos/glass.jpeg)
+![Alt text](images/glass.jpeg)
 
 * Double check camera settings:
 	
@@ -422,7 +422,7 @@ Finally! Let's start.
 	* The kind with 2.5mm jack are all the same, just get the cheapest one
 	* You camera might also support wireless or phone app
 
-![Alt text](photos/remote.png)
+![Alt text](images/remote.png)
 
 ---------
 
@@ -430,11 +430,11 @@ Finally! Let's start.
 
 * Place over the negative
 
-![Alt text](photos/outside.jpeg)
+![Alt text](images/outside.jpeg)
 
 * Line up the picture
 
-![Alt text](photos/fullframe.png)
+![Alt text](images/fullframe.png)
 
 * Enter **zoomed view** with focus peaking
 
@@ -444,7 +444,7 @@ Finally! Let's start.
 
 * Adjust focus until you achieve **maximum amount of "sparkles"**
 
-![Alt text](photos/focus.gif)
+![Alt text](images/focus.gif)
 
 * The tolerance is razor-thin! Tiny amount of movement is all you need.
 
@@ -476,7 +476,7 @@ Additional processing is needed to get the final result.
 
 We need to **invert**, **mirror**, and adjust the color of the photo.
 
-![Alt text](photos/raw.jpeg)
+![Alt text](sample_scans/raw.jpeg)
 
 There are a lot of guides online, so I'm not going to cover it in detail.
 
@@ -500,7 +500,7 @@ Final photo, click for full size.
 
 Zeiss Ikon Contessa 35 (Folding, 533/24), made in 1952.
 
-![Alt text](photos/cat.jpeg)
+![Alt text](sample_scans/cat.jpeg)
 
 Amazing how good it looks despite being over 70 years old! It's my favorite everyday camera.
 
@@ -508,9 +508,46 @@ Amazing how good it looks despite being over 70 years old! It's my favorite ever
 
 Newton rings are circular interference patterns caused by close proximity of two smooth surfaces.
 
-Such as when film touches glass:
+It often appears where film touches smooth glass:
 
+![Alt text](images/newton.jpeg)
 
+However with TCFS, it almost never occurs even with plain glass.
+
+I have a theory:
+
+* We scan with emulsion side up, which is typically duller and more matte.
+
+* Film strips are also placed near the center of the light table.
+
+* Due to its size, there might be a minuscule amount of curvature on its surface.
+
+* Such that the film might not actually touch the glass!
+
+#### 😡 OMG that means the film is NOT FLAT!!1!🤬y didnt u tell me eariler what a waste of time!! 
+
+* The curvature (if any) is absolutely tiny, especially with camera pushing down.
+
+* Such curvature is well within the depth of field of your digital camera.
+
+	* For 35mm, you have [2.6mm DoF](images/dof35mm.png).
+
+	* That's the thickness of 4 credit cards, or more than 20 times the film itself!
+
+	* For 120, [DoF is 7.6mm](images/dof120.png). More than quarter inch!
+
+---------
+
+* The proof is in the pudding. I would suggest:
+	* Follow the instructions
+	* Focus properly on the negative
+	* Look at the result yourself and decide
+
+* Feel free to examine my [full-size samples](./sample_scans).
+
+* Finally, if it really bothers you, you can always buy some ANR or etched non-glare glass.
+
+* [Useful discussion here](https://old.reddit.com/r/AnalogCommunity/comments/pex269/anr_glass_alternative_using_etched_frame_glass/).
 
 ## Tips & Tricks
 
