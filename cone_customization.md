@@ -14,6 +14,8 @@ Autodesk Fusion is a popular CAD software for designing 3D parts.
 
 We're going to install the free version, customize the traffic cone, and print the result.
 
+------
+
 Go to this link:
 
 https://www.autodesk.com/products/fusion-360/personal
@@ -24,26 +26,26 @@ Create a free personal-use account, download, and install.
 * Click through until you see the main screen
 * File icon -> Open...
 
-![Alt text](photos/open.png)
+![Alt text](images/open.png)
 
 * Select `Open from my computer...`
 
-![Alt text](photos/frompc.png)
+![Alt text](images/frompc.png)
 
 * Download the [template cone](https://github.com/dekuNukem/traffic-cone-film-scanning/raw/master/3d_models/cone_template.f3d) and select it.
 * Feel free to drag the viewcube to look around.
 * Click on a edge/corner/face to snap to view point.
 
-![Alt text](photos/tempcone.png)
+![Alt text](images/tempcone.png)
 
 * Click on `MODIFY` menu
 * Select `Change Parameters`
 
-![Alt text](photos/changepara.png)
+![Alt text](images/changepara.png)
 
 * Here you can see all the parameters for this cone.
 
-![Alt text](photos/parameters_35mm.png)
+![Alt text](images/parameters_35mm.png)
 
 * Don't touch anything yet!
 * Changing the values here will alter how the cone looks. 
@@ -58,7 +60,7 @@ In this example, I want to make a cone for **645** format with `Laowa 65mm f/2.8
 * Don't worry about dust yet, it's only for measurement.
 * Install lens hood
 
-![Alt text](photos/measurestart.jpeg)
+![Alt text](images/measurestart.jpeg)
 
 * Camera on
 * Point straight down
@@ -67,12 +69,12 @@ In this example, I want to make a cone for **645** format with `Laowa 65mm f/2.8
 	* In focus
 * Leave a little space near the edge to make alignment easier 
 
-![Alt text](photos/heightfocus.png)
+![Alt text](images/heightfocus.png)
 
 * Hold steady
-* Measure the distance from **glass to lip of lens hood** in **cm**
+* Measure the distance from **`glass surface`** to **`lip of lens hood`** in **cm**
 
-![Alt text](photos/ruler.jpeg)
+![Alt text](images/ruler.jpeg)
 
 This will be the **height** of the cone. Around 16cm in this case.
 
@@ -82,9 +84,9 @@ Write it down.
 
 Next, use a caliper, measure the **inner** and **outer diameter** of the **outward facing rim** of the lens hood in **mm**.
 
-![Alt text](photos/hoodin.jpeg)
+![Alt text](images/hoodin.jpeg)
 
-![Alt text](photos/hoodout.jpeg)
+![Alt text](images/hoodout.jpeg)
 
 Write those down as well.
 
@@ -92,7 +94,7 @@ That's it! We're done.
 
 ## Parameter Adjustment
 
-Back in Autodesk Fusion. We can now customize the cone with the values we just measured.
+Back in Autodesk Fusion. We can now put in the values we just measured.
 
 ℹ️ Click the **number in Expression column** to change the value.
 
@@ -100,7 +102,7 @@ Back in Autodesk Fusion. We can now customize the cone with the values we just m
 
 * Size of the scanning window.
 * 24×36mm for 135, 60x45mm for 645, 60x90mm for 6x9, etc.
-* Add an extra 1mm to account for margin of error if you want.
+* Add an extra 1mm for margin of error if you want.
 
 #### `tube_height`
 
@@ -114,33 +116,44 @@ Back in Autodesk Fusion. We can now customize the cone with the values we just m
 
 #### `raft_x` and `raft_y`
 
-* Size of the bottom platform of the cone
+* Size of the bottom platform
 * Default is 90x90mm, works pretty well.
 * Increase slightly for larger formats.
 
-![Alt text](photos/newpara.png)
+![Alt text](images/newpara.png)
 
-No need to change the other parameters.
+No need to change any other parameters.
 
 As you type in new values, the cone changes shape accordingly.
 
-Now it is much taller:
+It is now much taller:
 
-![Alt text](photos/newcone.png)
+![Alt text](images/newcone.png)
 
 We can now 3D print the new cone!
 
 * File icon -> 3D Print 
 
-![Alt text](photos/f3d.png)
+![Alt text](images/f3d.png)
 
 * Click on the 3D model
 * Export STL file, or send directly to a slicer.
 
-![Alt text](photos/3dmenu.png)
+![Alt text](images/3dmenu.png)
 
 * Press `Save` icon to save a copy
 
-![Alt text](photos/save.png)
+![Alt text](images/save.png)
 
-With your very own traffic cone, go back and continue on the main guide!
+Now with your very own bespoke traffic cone, head back to [the main guide!](README.md#printing-the-cone) (`Printing the cone` section)
+
+## License Note
+
+The **scanning cone** design is under [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+You can:
+
+* Share, modify, remix, and redistribute the material, even commercially.
+* **AS LONG AS** you give appropriate credit to me (dekuNukem) and [the project page](https://github.com/dekuNukem/traffic-cone-film-scanning).
+
+The sample photos are **NOT** under CC BY 4.0 and are all rights reserved.

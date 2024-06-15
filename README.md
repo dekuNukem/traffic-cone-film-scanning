@@ -34,8 +34,8 @@ TCFS is a low-cost 3D-printable alternative that produces high-quality results a
 	* No stray lights
 	* No reflection
 * **Multi-format**: 110, 126, 35mm, 645, 6x6, 6x7, 6x9, sprockets, and more!
-* **Open-source**
-	* Customizable parametric design
+* **Open-source design**
+	* Customizable parametric model
 	* CCBY4.0 license.
 
 ## Samples
@@ -314,7 +314,7 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 * Unscrew the lens hood
 * Put the cone on a flat surface (**NOT LIGHT TABLE**)
 * Ensure the mark is still aligned
-* Push the lens hood all the way in
+* Push all the way in
 * Make sure it **bottoms out** and **flat and level**
 
 ![Alt text](images/push.jpeg)
@@ -357,7 +357,9 @@ We are going to manually focus on the negative.
 
 **Focus peaking** is essential to ensure a sharp scan.
 
-Make sure it's on, and blue has good contrast with orange negatives.
+Make sure it's on.
+
+Color blue has good contrast against orange negatives.
 
 ![Alt text](images/mf.png)
 
@@ -376,7 +378,7 @@ We have a few potential surfaces for dust, so it is crucial to be as clean as po
 #### Wipe-down
 
 * Before a scanning session, wipe clean the light table and glass (both sides).
-* I use **Chamois Leather**. They are inexpensive, but make sure it's real.
+* I use **Chamois Leather**. They are inexpensive, but make sure it's real (as in from an animal).
 * Microfibre cloths works too, but I find them shed a lot of lint. 
 
 ![Alt text](images/leather.jpg)
@@ -422,7 +424,7 @@ Finally! Let's start.
 * Using a **remote release** is strongly recommended to reduce vibration and speed up the process
 
 	* The type with 2.5mm jack are all the same, just get the cheapest one
-	* You camera might also support wireless or phone app
+	* You camera might also support wireless remote or phone app
 
 ![Alt text](images/remote.png)
 
@@ -440,11 +442,13 @@ Finally! Let's start.
 
 * Enter **magnified view** with focus peaking
 
-* Push rear thumbwheel on Fuji XT4, look up how to do it on yours.
+* On Fuji X-T4, push the rear thumbwheel. Look up how to do it on yours.
 
 * Find a sharp area on the negative
 
-* Adjust focus until you achieve **maximum amount of "sparkles"**
+* Adjust focus ring. **Try not to apply too much downward pressure**.
+
+* Until you achieve **maximum amount of "sparkles"**
 
 ![Alt text](images/focus.gif)
 
@@ -480,9 +484,9 @@ We need to **invert**, **mirror**, and adjust the color of the photo.
 
 ![Alt text](sample_scans/raw.jpeg)
 
-There are a lot of guides online, so I'm not going to cover in detail.
+There are a lot of guides online, so I'm not going to cover the details.
 
-For black and white, I find it doable manually. But for color, it's much easier with dedicated software.
+For black and white, I find it doable manually. But for color, it's much easier with a dedicated software.
 
 Popular ones include:
 
@@ -504,6 +508,20 @@ Zeiss Ikon Contessa 35 (Folding, 533/24), c. 1952. Click for full size.
 
 Amazing how good it looks despite being over 70 years old!
 
+## Key Points
+
+As always, you'll get quicker with with time.
+
+To recap, those are the most important points to remember:
+
+* **Wear gloves**
+* Chamois leather wipe-down
+* Emulsion side up
+* White balance / RAW output / Low ISO
+* f/8
+* Nail the focus
+* Use remote release
+
 ## A Word on Newton Rings
 
 Newton rings are circular interference patterns caused by close proximity of two smooth surfaces.
@@ -512,14 +530,14 @@ They often appear where film touches smooth glass:
 
 ![Alt text](images/newton.jpeg)
 
-However, from my experience, it almost never occurs with TCFS even with plain glass.
+Curiously, from my experience, it almost never occurs with TCFS, even with plain glass.
 
 I have a theory:
 
 * We scan with emulsion side up, which is typically more matte.
-* Film are also placed near the center of the light table.
+* Films are also placed near the center of the light table.
 * Due to its size, there might be a minuscule amount of curvature on its surface.
-* Such that the film are not squished right against the glass!
+* Such that the films are not squished right against the glass!
 
 #### 😡 OMG that means the film is NOT FLAT!!1!🤬y didnt u tell me eariler what a waste of time!! 
 
@@ -532,25 +550,21 @@ I have a theory:
 
 ---------
 
-* The proof is in the pudding. I would suggest:
+* I would suggest:
 	* Follow the instructions
 	* Focus properly on the negative
-	* Look at the result yourself and decide
+	* Look at the result yourself and decide. The proof is in the pudding. 
 * Feel free to examine my [full-size samples](./sample_scans).
-* Finally, if it really bothers you, you can always buy some ANR or etched non-glare glass.
+* Finally, if it really bothers you, you can always get some ANR or etched non-glare glass.
 * [Useful discussion here](https://old.reddit.com/r/AnalogCommunity/comments/pex269/anr_glass_alternative_using_etched_frame_glass/).
 
 ## How'd It Go?
 
-That's it! Hopefully it works out well enough for you
+That's it! If you read this far, hopefully you have already made some scans, or are at least interested in trying!
 
-Remember the key points
+I would love to hear about your experience, good or bad. As well as any comments and suggestions!
 
-* blah
-
-* blah
-
-i would love to hear about your expeience. get in touch, discord and email.
+Get in touch [via Discord](https://discord.gg/wB9mKjD2Cn), or email: dekuNukem&gmail.com!
 
 ## License Notice
 
@@ -558,7 +572,7 @@ The **scanning cone** design is under [CC BY 4.0 License](https://creativecommon
 
 You can:
 
-* Share, modify, and redistribute the material, even commercially.
-* **AS LONG AS** you give appropriate credit to me (dekuNukem) and this page.
+* Share, modify, remix, and redistribute the material, even commercially.
+* **AS LONG AS** you give appropriate credit to me (dekuNukem) and [the project page](https://github.com/dekuNukem/traffic-cone-film-scanning).
 
 The sample photos are **NOT** under CC BY 4.0 and are all rights reserved.
