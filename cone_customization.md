@@ -1,4 +1,4 @@
-# Traffic-Cone Film Scan: Customization Guide
+# Traffic-Cone Film Scanning: Customization Guide
 
 [Buy Cones]() | [Main Page](README.md) | [Discord](https://discord.gg/wB9mKjD2Cn)
 
@@ -10,7 +10,7 @@ This guide shows you how to customize the cone to **your particular lens and fil
 
 ## Install Autodesk Fusion
 
-Autodesk Fusion is a popular CAD software for designing 3D parts.
+Autodesk Fusion is a popular 3D CAD software.
 
 We're going to install the free version, customize the traffic cone, and print the result.
 
@@ -72,11 +72,13 @@ In this example, I want to make a cone for **645** format with `Laowa 65mm f/2.8
 ![Alt text](images/heightfocus.png)
 
 * Hold steady
-* Measure the distance from **`glass surface`** to **`lip of lens hood`** in **cm**
+* Measure the distance from **`glass surface`** to **`lip of lens hood`** in **mm**
 
 ![Alt text](images/ruler.jpeg)
 
-This will be the **height** of the cone. Around 16cm in this case.
+This will be the **height** of the cone.
+
+Around 16cm, or 160mm, in this case.
 
 Write it down.
 
@@ -107,7 +109,6 @@ Back in Autodesk Fusion. We can now put in the values we just measured.
 #### `tube_height`
 
 * Height of the cone you measured, in **mm**.
-* 1cm = 10mm
 
 #### `hood_inner_dia` and `hood_outer_dia`
 

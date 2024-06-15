@@ -62,16 +62,16 @@ Fuji XT4 + Laowa 65mm f/2.8
 
 While TCFS can achieve excellent results, there are a few things to keep in mind.
 
-#### DIY Needed
+#### DIY Involved
 
 * You need to be a bit handy.
 * Wire a plug, use a caliper, etc. Nothing too crazy.
 
-#### Getting a Cone
+#### Obtaining a Cone
 
+* One cone per film format.
 * For lowest cost, print your own. Basic 3D printing experience needed.
 * Pre-made cones also available.
-* One cone for each format.
 
 #### No Magic Bullet
 
@@ -86,8 +86,8 @@ While TCFS can achieve excellent results, there are a few things to keep in mind
 
 * Commodity off-the-self parts are used to reduce cost.
 * However it can result in variability from person to person.
-* I would love to hear about your experience with TCFS!
-* Get in touch [via Discord](https://discord.gg/wB9mKjD2Cn) or email: dekuNukem&gmail.com!
+* I would love to hear about your experience!
+* Get in touch [via Discord](https://discord.gg/wB9mKjD2Cn) or email: `dekuNukem&gmail.com`!
 
 ## Sounds Great, I'm In!
 
@@ -535,9 +535,9 @@ Curiously, from my experience, it almost never occurs with TCFS, even with plain
 I have a theory:
 
 * We scan with emulsion side up, which is typically more matte.
-* Films are also placed near the center of the light table.
+* Film are also placed near the center of the light table.
 * Due to its size, there might be a minuscule amount of curvature on its surface.
-* Such that the films are not squished right against the glass!
+* Such that the film are not squished right against the glass!
 
 #### 😡 OMG that means the film is NOT FLAT!!1!🤬y didnt u tell me eariler what a waste of time!! 
 
@@ -555,18 +555,20 @@ I have a theory:
 	* Focus properly on the negative
 	* Look at the result yourself and decide. The proof is in the pudding. 
 * Feel free to examine my [full-size samples](./sample_scans).
-* Finally, if it really bothers you, you can always get some ANR or etched non-glare glass.
+* Finally, if it really bothers you, you can always get some ANR glass.
 * [Useful discussion here](https://old.reddit.com/r/AnalogCommunity/comments/pex269/anr_glass_alternative_using_etched_frame_glass/).
 
 ## How'd It Go?
 
-That's it! If you read this far, hopefully you have already made some scans, or are at least interested in trying!
+That's it! If you read this far, hopefully you have already made some scans, or at least interested in trying!
 
-I would love to hear about your experience, good or bad. As well as any comments and suggestions!
+I would love to hear about your experience, good or bad.
+
+As well as any comments, questions, and suggestions!
 
 Get in touch [via Discord](https://discord.gg/wB9mKjD2Cn), or email: dekuNukem&gmail.com!
 
-## License Notice
+## License Note
 
 The **scanning cone** design is under [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/deed.en)
 
