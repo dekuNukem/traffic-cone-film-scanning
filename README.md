@@ -512,7 +512,7 @@ Popular ones include:
 
 Personally, I use Filmomat SmartConvert to invert the negative, and macOS photos app for minor adjustments.
 
-Zeiss Ikon Contessa 35 (Folding, 533/24), c. 1952. Click for full size.
+Zeiss Ikon Contessa 35 (Folding, 533/24), c. 1952.
 
 ![Alt text](sample_scans/cat.jpeg)
 
