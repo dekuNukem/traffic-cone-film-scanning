@@ -25,11 +25,18 @@ TCFS is a low-cost 3D-printable alternative that produces high-quality results a
 
 ## Advantages
 
-* **Low-cost**: $1 in filaments, $50 all-in.
-* **Easy setup**: No tripods/copystands. Fixed distance, always square, no calibration.
-* **Fully Enclosed**: No stray lights, no reflection.
+* **Low-cost**: $1 in filaments.
+* **Easy setup**:
+	* No tripods/copystands
+	* Fixed distance, always square.
+	* No alignment
+* **Fully Enclosed**
+	* No stray lights
+	* No reflection
 * **Multi-format**: 110, 126, 35mm, 645, 6x6, 6x7, 6x9, sprockets, and more!
-* **Open-source**: Customizable parametric design, CCBY4.0 license.
+* **Open-source**
+	* Customizable parametric design
+	* CCBY4.0 license.
 
 ## Samples
 
@@ -55,19 +62,25 @@ Fuji XT4 + Laowa 65mm f/2.8
 
 While I was able to achieve excellent results, there are a few things to keep in mind.
 
+#### DIY Needed
+
+* You need to be a bit handy and do some DIY.
+* Wire a plug, use a caliper, etc. Nothing too advanced.
+
 #### Getting a Cone
 
 * Print-your-own for lowest cost, basic 3D printing experience needed.
 * Pre-made cones are also available.
-* One cone for each film format.
+* One cone for each format.
 
 #### No Magic Bullet
 
-* When done properly, the result can be as good as any expensive DSLR/mirrorless setup.
-* Able to get the most out of 35mm & smaller.
-* Also great with medium formats, but likely won't extract all its resolution.
-* However, for utmost quality, wet mounting / drum scan is still hard to beat.
-* The main advantage is excellent scans at much lower cost, easy setup, and faster speed.
+* TCFS can be as good as any expensive DSLR/mirrorless setup when done properly.
+	* Makes the most out of 35mm & smaller
+	* Also great with medium format
+	* But likely won't extract all its resolution
+* For utmost quality, wet mounting/drum scans are still hard to beat.
+* Main advantage is excellent scans at much lower cost, easy setup, and faster speed.
 
 #### Feedback Wanted!
 
@@ -105,9 +118,9 @@ For best results, I recommend:
 
 -------
 
-You can always drop 4 figures on a flagship first-party lens, but for film scanning it's a bit overkill.
+You can drop 4 figures on a flagship first-party lens, but for film scanning it's a bit overkill.
 
-Personally I use [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.net/product/laowa-65mm-f-2-8-2x-ultra-macro-apo/).
+A popular choice is [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.net/product/laowa-65mm-f-2-8-2x-ultra-macro-apo/):
 
 * 2x MR
 * Superb image quality
@@ -116,7 +129,7 @@ Personally I use [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.net
 
 ![Alt text](photos/laowa.jpg)
 
-Another popular option is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store/products/7artisans-60mm-f2-8-mark-ii-macro-lens-for-sony-e-fuji-fx-canon-eos-m-olympus-m43-nikon-z-mirrorless-cameras).
+Another one is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store/products/7artisans-60mm-f2-8-mark-ii-macro-lens-for-sony-e-fuji-fx-canon-eos-m-olympus-m43-nikon-z-mirrorless-cameras):
 
 * 1x MR
 * Excellent image quality
@@ -125,11 +138,15 @@ Another popular option is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store
 
 ![Alt text](photos/7art.png)
 
-Both are fully manual and popular with film digitization.
+I have both, and personally I prefer the Laowa:
 
-Get them cheaper on aliexpress.
+* Inboard aperture ring, less likely to bump into during focusing.
 
-The extra magnification of laowa can be handy for subminiature formats such as 110, half-frame, or disk films.
+* Smoother focus ring, allowing finer adjustments.
+
+* Extra magnification handy for subminiature formats (110, 126, half-frame, etc)
+
+Anyway, can't go wrong with either. Available cheaper on aliexpress.
 
 -----------------
 
@@ -143,7 +160,6 @@ However, you need to do your own homework. Search `Film scan macro lens` on goog
 
 We need a lens hood to attach the cone to.
 
-* Fits your lens
 * **Circular** shape
 * **Fully enclosed**
 * One-piece **metal** (not collapsible)
@@ -216,15 +232,15 @@ We need a piece of glass to hold the film flat on the light table.
 
 ![Alt text](photos/frame.jpg)
 
-#### What about newton rings???????
+#### But what about newton rings???????
 
-We scan with emulsion side up, along with the setup I'm going to cover later, seems to helps a lot.
+We scan with emulsion side up with a particular setup, seems to helps a lot.
 
-I suggest starting with cheap plain glass, you can always upgrade to ANR glass down the line.
+I suggest start with cheap plain glass, you can always upgrade to ANR glass later
 
 ## Cone Preparation
 
-For best results, the cone should be adjusted to your specific lens / film format combo.
+For best results, the cone should be customized to your specific lens.
 
 ### I bought one ready-made!
 
@@ -237,8 +253,8 @@ Great, skip to the [Cone Assembly](#assembling-the-cone) section.
 
 Great! Download a file and go to the next section.
 
-* [35mm full frame (no sprocket)]()
-* [120 645] under construction
+* [35mm full frame]()
+* [120 645]()
 * [120 6x6]()
 * [120 6x7]()
 * [120 6x9]()
@@ -274,7 +290,7 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 
 ![Alt text](photos/strands.jpeg)
 
-* Whiskers higher up won't show up, no need to worry about them.
+* Whiskers higher up won't show up, leave them if you want.
 
 -----
 
@@ -296,8 +312,8 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 ![Alt text](photos/mark.jpeg)
 
 * Unscrew the lens hood
-* Rest the cone on a flat surface (**NOT LIGHT TABLE**)
-* Make sure the position mark is still aligned
+* Put the cone on a flat surface (**NOT LIGHT TABLE**)
+* Ensure the mark is still aligned
 * Push the lens hood all the way in
 * Make sure it **bottoms out** and **flat and level**
 
@@ -305,13 +321,13 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 
 The cone should grip the lens hood tightly. 
 
-If too loose, you can adjust the parameters and print a new one.
+If too loose, adjust the parameters and print a new one.
 
-Or just put a few drops of superglue.
+Or just put in a few drops of superglue.
 
 ## Scanning Preparation
 
-The cone is ready! But before start scanning, we need to set up a few things.
+The cone is ready! Before start scanning, we need to set up a few things.
 
 ### Light Panel
 
@@ -341,7 +357,7 @@ We are going to manually focus on the negative.
 
 **Focus peaking** is essential to ensure a sharp scan.
 
-Make sure it's on, and blue has nice contrast with orange negatives.
+Make sure it's on, and blue has good contrast with orange negatives.
 
 ![Alt text](photos/mf.png)
 
@@ -399,9 +415,7 @@ Finally! Let's start.
 	* Too large aperture (small f number) makes it difficult to focus
 	* f/8 is just about right
 
-* Enable **center-weighted autoexposure**.
-
-* Seems to work pretty well, but you can go fully manual if you want.
+* Use **center-weighted autoexposure**. Fully manual if you want.
 
 * Using a **remote release** is strongly recommended to reduce vibration and speed up the process
 
@@ -414,7 +428,7 @@ Finally! Let's start.
 
 * Attach cone to the camera
 
-* Place the cone over the negative
+* Place over the negative
 
 ![Alt text](photos/outside.jpeg)
 
@@ -424,7 +438,7 @@ Finally! Let's start.
 
 * Enter **zoomed view** with focus peaking
 
-* On Fuji XT4 it's pushing in the back dial, look up how to do it on yours.
+* Push rear thumb wheel on Fuji XT4, look up how to do it on yours.
 
 * Find a sharp area on the negative
 
@@ -450,13 +464,15 @@ From now on, avoid touching the camera as much as possible!
 
 It should stay in focus for the whole session.
 
-If you're paranoid, feel free to re-focus every time you remove the glass to put new negative in.
+If you're paranoid, re-focus every time you remove the glass to put new negative in.
+
+Definitely re-focus if left overnight. Temperature changes can cause it to drift.
 
 ## Post-Processing
 
 Now we have high-quality scans in RAW format.
 
-But some processing is needed to get the best result.
+Additional processing is needed to get the final result.
 
 We need to **invert**, **mirror**, and adjust the color of the photo.
 
@@ -464,7 +480,7 @@ We need to **invert**, **mirror**, and adjust the color of the photo.
 
 There are a lot of guides online, so I'm not going to cover it in detail.
 
-For black and white, I find it's doable manually. But for color, it's much easier to use a dedicated app.
+For black and white, I find it's doable manually. But for color, it's much easier to use a dedicated software.
 
 Popular ones include:
 
@@ -482,17 +498,17 @@ Personally, I use Filmomat SmartConvert to invert the negative, and macOS photos
 
 Final photo, click for full size.
 
-![Alt text](photos/cat.jpeg)
-
 Zeiss Ikon Contessa 35 (Folding, 533/24), made in 1952.
 
-Amazing how good it looks despite being over 70 years old! It's my favorite point-and-shoot.
+![Alt text](photos/cat.jpeg)
+
+Amazing how good it looks despite being over 70 years old! It's my favorite everyday camera.
 
 ## A Word on Newton Rings
 
 ## Checklist
 
-
+## How Did it Go?
 
 ## License Notice
 
@@ -503,4 +519,4 @@ You can:
 * Share, modify, and redistribute the material, even commercially.
 * **AS LONG AS** you give appropriate credit to me (dekuNukem) and this page.
 
-Please note: The sample photos are **NOT** under CC BY 4.0 and are all rights reserved.
+The sample photos are **NOT** under CC BY 4.0 and are all rights reserved.
