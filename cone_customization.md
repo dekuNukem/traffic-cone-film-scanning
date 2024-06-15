@@ -98,13 +98,19 @@ That's it! We're done.
 
 Back in Autodesk Fusion. We can now put in the values we just measured.
 
-ℹ️ Click the **number in Expression column** to change the value.
+* Click the **number in Expression column** to change the value.
+
+![Alt text](images/click.png)
+
+Usually, the following values need to be changed:
+
+![Alt text](images/newpara.png)
 
 #### `aperture_x` and `aperture_y`
 
 * Size of the scanning window.
 * 24×36mm for 135, 60x45mm for 645, 60x90mm for 6x9, etc.
-* Add an extra 1mm for margin of error if you want.
+* Add extra 1mm for margin of error if you want.
 
 #### `tube_height`
 
@@ -121,9 +127,10 @@ Back in Autodesk Fusion. We can now put in the values we just measured.
 * Default is 90x90mm, works pretty well.
 * Increase slightly for larger formats.
 
-![Alt text](images/newpara.png)
 
-No need to change any other parameters.
+No need to change anything else.
+
+---------
 
 As you type in new values, the cone changes shape accordingly.
 
@@ -146,7 +153,7 @@ We can now 3D print the new cone!
 
 ![Alt text](images/save.png)
 
-Now with your very own bespoke traffic cone, head back to [the main guide!](README.md#printing-the-cone) (`Printing the cone` section)
+Now with your very own bespoke traffic cone model, head back to [the main guide!](README.md#printing-the-cone) (`Printing the cone` section)
 
 ## License Note
 
