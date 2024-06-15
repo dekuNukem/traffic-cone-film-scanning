@@ -28,14 +28,13 @@ TCFS is a low-cost 3D-printable alternative that produces high-quality results a
 * **Low-cost**: $1 in filaments.
 * **Easy setup**:
 	* No tripods/copystands
-	* Fixed distance, always square.
-	* No alignment
+	* Fixed distance, always square. No alignment.
 * **Fully Enclosed**
 	* No stray lights
 	* No reflection
 * **Multi-format**: 110, 126, 35mm, 645, 6x6, 6x7, 6x9, sprockets, and more!
-* **Open-source design**
-	* Customizable parametric model
+* **Open-source**
+	* Customizable parametric design
 	* CCBY4.0 license.
 
 ## Table of Contents
@@ -46,8 +45,7 @@ TCFS is a low-cost 3D-printable alternative that produces high-quality results a
 - [Cone Assembly](#cone-assembly)
 - [Scanning Preparation](#scanning-preparation)
 - [Scanning Procedures](#scanning-procedures)
-- [Post-Processing](#post-processing)
-- [Newton Rings](#a-word-on-newton-rings)
+- [About Newton Rings](#a-word-on-newton-rings)
 - [Feedback Wanted!](#howd-it-go)
 - [License Note](#license-note)
 
