@@ -244,7 +244,7 @@ For best results, the cone should be customized to your specific lens.
 
 ### I bought one ready-made!
 
-Great, skip to the [Cone Assembly](#assembling-the-cone) section.
+Great, skip to the [Cone Assembly](#cone-assembly) section.
 
 ### I have the lens below!
 
@@ -254,11 +254,11 @@ Great, skip to the [Cone Assembly](#assembling-the-cone) section.
 Great! Download a file and go to the next section.
 
 * [35mm Full Frame](3d_models/laowa_7art_35mm_fullframe.stl?raw=true)
-* [35mm Sprocket](3d_models/laowa_7art_35mm_sprocket_6x6.stl) (using 120 adaptor on 6x6 camera)
-* [645](3d_models/laowa_7art_645.stl)
-* [6x6](3d_models/laowa_7art_6x6.stl)
-* [6x7](3d_models/laowa_7art_6x7.stl)
-* [6x9](3d_models/laowa_7art_6x9.stl)
+* [35mm Sprocket](3d_models/laowa_7art_35mm_sprocket_6x6.stl?raw=true) (using 120 adaptor on 6x6 camera)
+* [645](3d_models/laowa_7art_645.stl?raw=true)
+* [6x6](3d_models/laowa_7art_6x6.stl?raw=true)
+* [6x7](3d_models/laowa_7art_6x7.stl?raw=true)
+* [6x9](3d_models/laowa_7art_6x9.stl?raw=true)
 
 ### I'm using my own lens / I want to customize!
 
