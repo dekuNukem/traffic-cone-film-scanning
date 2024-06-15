@@ -281,17 +281,19 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 * Put the cone on the light table
 * Attach the lens hood to your lens, moderately tight
 
-![Alt text](photos/.jpeg)
+![Alt text](photos/conecam.jpeg)
 
 * Hover the camera just over the cone, barely touching.
-* Adjust focus, and rotate the camera.
+* Adjust focus and position.
 * Until the film gate is **parallel** with camera frame
 
-![Alt text](photos/.jpeg)
+![Alt text](photos/hold.jpeg)
+
+![Alt text](photos/frame.png)
 
 * Mark the position of the cone with paint marker, or a scratch mark.
 
-![Alt text](photos/.jpeg)
+![Alt text](photos/mark.jpeg)
 
 * Unscrew the lens hood
 * Rest the cone on a flat surface (**NOT LIGHT TABLE**)
@@ -299,13 +301,15 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 * Push the lens hood all the way in
 * Make sure it **bottoms out** and **flat and level**
 
-![Alt text](photos/.jpeg)
+![Alt text](photos/push.jpeg)
 
 The cone should grip the lens hood tightly. 
 
-If too loose, you can put a few drops of superglue, or adjust the parameters and print a new one.
+If too loose, you can adjust the parameters and print a new one.
 
-## Scanning Prerequisites
+Or just put a few drops of superglue.
+
+## Scanning Preparation
 
 The cone is ready! But before start scanning, we need to set up a few things.
 
@@ -315,7 +319,7 @@ Put the light table on a flat surface.
 
 If the power jack sticks out, let it hang off the edge. Double check it is **twist-locked**.
 
-![Alt text](photos/.jpeg)
+![Alt text](photos/table.jpeg)
 
 The panel should be flat and not wobble.
 
@@ -329,7 +333,7 @@ Usually involves taking a picture of the blank table. Refer to user manual.
 
 Select RAW output format for best quality, needed for most converting software.
 
-![Alt text](photos/.jpeg)
+![Alt text](photos/raw.png)
 
 ### Dust Management
 
@@ -338,13 +342,19 @@ We have a few potential surfaces for dust, so it is crucial to be as clean as po
 #### WEAR GLOVES
 
 * **DO NOT** touch film / glass with bare hands!
-* I use disposable gloves, reusable gloves works too, but they might shed lints.
+* I use disposable gloves, make sure its **powder-free**.
+* Reusable gloves works too, but may shed lint.
+
+![Alt text](photos/glove.jpg)
 
 #### Wipe-down
 
 * Before a scanning session, wipe clean the light table and glass (both sides).
-* I use inexpensive **Chamois Leather**. Make sure it's real kind.
-* Microfibre cloths works too, but they might also shed lints. 
+* I use **Chamois Leather**. They are inexpensive, but make sure it's real.
+* Microfibre cloths works too, but I find them shed a lot of lint. 
+
+![Alt text](photos/leather.jpg)
+
 
 ## Scanning Procedures
 
