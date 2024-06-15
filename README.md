@@ -397,6 +397,8 @@ Finally! Let's start.
 
 	* Place near the **CENTER** of the light table
 
+	* Can be the entire roll if your glass is big enough
+
 ![Alt text](images/strips.jpeg)
 
 * Place glass on top. Ensure **no overlapping**
@@ -419,7 +421,7 @@ Finally! Let's start.
 
 * Using a **remote release** is strongly recommended to reduce vibration and speed up the process
 
-	* The kind with 2.5mm jack are all the same, just get the cheapest one
+	* The type with 2.5mm jack are all the same, just get the cheapest one
 	* You camera might also support wireless or phone app
 
 ![Alt text](images/remote.png)
@@ -428,7 +430,7 @@ Finally! Let's start.
 
 * Attach cone to the camera
 
-* Place over the negative
+* Place over a negative
 
 ![Alt text](images/outside.jpeg)
 
@@ -436,7 +438,7 @@ Finally! Let's start.
 
 ![Alt text](images/fullframe.png)
 
-* Enter **zoomed view** with focus peaking
+* Enter **magnified view** with focus peaking
 
 * Push rear thumb wheel on Fuji XT4, look up how to do it on yours.
 
@@ -454,9 +456,9 @@ Now we are in focus!
 
 From now on, avoid touching the camera as much as possible!
 
-* Use remote release / remote app / self timer, take a photo!
+* Take a photo using remote release / remote app / self timer.
 
-* Slide the cone around the glass for each photo
+* Slide the cone around the glass for each frame
 
 * Grab the neck of the cone, not the lens, to avoid accidentally knocking out focus.
 
@@ -466,7 +468,7 @@ It should stay in focus for the whole session.
 
 If you're paranoid, re-focus every time you remove the glass to put new negative in.
 
-Definitely re-focus if left overnight. Temperature changes can cause it to drift.
+Definitely re-focus if left overnight. Temperature changes can cause focus drift.
 
 ## Post-Processing
 
@@ -480,7 +482,7 @@ We need to **invert**, **mirror**, and adjust the color of the photo.
 
 There are a lot of guides online, so I'm not going to cover it in detail.
 
-For black and white, I find it's doable manually. But for color, it's much easier to use a dedicated software.
+For black and white, I find it doable manually. But for color, it's much easier with dedicated software.
 
 Popular ones include:
 
@@ -502,7 +504,7 @@ Zeiss Ikon Contessa 35 (Folding, 533/24), made in 1952.
 
 ![Alt text](sample_scans/cat.jpeg)
 
-Amazing how good it looks despite being over 70 years old! It's my favorite everyday camera.
+Amazing how good it looks despite being over 70 years old!
 
 ## A Word on Newton Rings
 
@@ -512,7 +514,7 @@ It often appears where film touches smooth glass:
 
 ![Alt text](images/newton.jpeg)
 
-However from my experience, it almost never occurs with TCFS even with plain glass.
+However, from my experience, it almost never occurs with TCFS even with plain glass.
 
 I have a theory:
 
@@ -522,11 +524,11 @@ I have a theory:
 
 * Due to its size, there might be a minuscule amount of curvature on its surface.
 
-* Such that the film might not actually touch the glass!
+* Such that only the outer edges of the film is touching the glass!
 
 #### 😡 OMG that means the film is NOT FLAT!!1!🤬y didnt u tell me eariler what a waste of time!! 
 
-* The curvature (if any) is absolutely tiny, especially with camera pushing down.
+* The curvature (if any) is absolutely tiny, especially with the camera pushing down.
 
 * Such curvature is well within the depth of field of your digital camera.
 
@@ -534,7 +536,7 @@ I have a theory:
 
 	* That's the thickness of 4 credit cards, or more than 20 times the film itself!
 
-	* For 120, [DoF is 7.6mm](images/dof120.png). More than quarter inch!
+	* For 120, [DoF is 7.6mm](images/dof120.png). More than a quarter inch!
 
 ---------
 
