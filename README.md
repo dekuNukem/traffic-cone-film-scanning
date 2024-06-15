@@ -38,6 +38,19 @@ TCFS is a low-cost 3D-printable alternative that produces high-quality results a
 	* Customizable parametric model
 	* CCBY4.0 license.
 
+## Table of Contents
+
+- [Sample Scans](#samples)
+- [Items Needed](#sounds-great-im-in)
+- [Cone Preparation](#cone-preparation)
+- [Cone Assembly](#cone-assembly)
+- [Scanning Preparation](#scanning-preparation)
+- [Scanning Procedures](#scanning-procedures)
+- [Post-Processing](#post-processing)
+- [Newton Rings](#a-word-on-newton-rings)
+- [Feedback Wanted!](#howd-it-go)
+- [License Note](#license-note)
+
 ## Samples
 
 Fuji XT4 + Laowa 65mm f/2.8
