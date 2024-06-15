@@ -64,8 +64,8 @@ While I was able to achieve excellent results, there are a few things to keep in
 
 #### DIY Needed
 
-* You need to be a bit handy and do some DIY.
-* Wire a plug, use a caliper, etc. Nothing too advanced.
+* You need to be a bit handy.
+* Wire a plug, use a caliper, etc. Nothing too crazy.
 
 #### Getting a Cone
 
@@ -76,7 +76,7 @@ While I was able to achieve excellent results, there are a few things to keep in
 #### No Magic Bullet
 
 * TCFS can be as good as any expensive DSLR/mirrorless setup when done properly.
-	* Makes the most out of 35mm & smaller
+	* Gets the most out of 35mm & smaller
 	* Also great with medium format
 	* But likely won't extract all its resolution
 * For utmost quality, wet mounting/drum scans are still hard to beat.
@@ -512,11 +512,11 @@ It often appears where film touches smooth glass:
 
 ![Alt text](images/newton.jpeg)
 
-However with TCFS, it almost never occurs even with plain glass.
+However from my experience, it almost never occurs with TCFS even with plain glass.
 
 I have a theory:
 
-* We scan with emulsion side up, which is typically duller and more matte.
+* We scan with emulsion side up, which is typically more matte.
 
 * Film strips are also placed near the center of the light table.
 
@@ -548,12 +548,6 @@ I have a theory:
 * Finally, if it really bothers you, you can always buy some ANR or etched non-glare glass.
 
 * [Useful discussion here](https://old.reddit.com/r/AnalogCommunity/comments/pex269/anr_glass_alternative_using_etched_frame_glass/).
-
-## Tips & Tricks
-
-color slide film: overexpose slightly, built-in HDR too?
-
-
 
 ## How Did it Go?
 
