@@ -60,7 +60,7 @@ Fuji XT4 + Laowa 65mm f/2.8
 
 ## So What's the Catch?
 
-While I was able to achieve excellent results, there are a few things to keep in mind.
+While TCFS can achieve excellent results, there are a few things to keep in mind.
 
 #### DIY Needed
 
@@ -69,14 +69,14 @@ While I was able to achieve excellent results, there are a few things to keep in
 
 #### Getting a Cone
 
-* Print-your-own for lowest cost, basic 3D printing experience needed.
-* Pre-made cones are also available.
+* For lowest cost, print your own. Basic 3D printing experience needed.
+* Pre-made cones also available.
 * One cone for each format.
 
 #### No Magic Bullet
 
 * TCFS can be as good as any expensive DSLR/mirrorless setup when done properly.
-	* Gets the most out of 35mm & smaller
+	* Able to get the most out of 35mm & smaller
 	* Also great with medium format
 	* But likely won't extract all its resolution
 * For utmost quality, wet mounting/drum scans are still hard to beat.
@@ -295,7 +295,7 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 -----
 
 * Put the cone on the light table
-* Attach the lens hood to your lens, moderately tight
+* Attach the lens hood, moderately tight
 
 ![Alt text](images/conecam.jpeg)
 
@@ -323,7 +323,7 @@ The cone should grip the lens hood tightly.
 
 If too loose, adjust the parameters and print a new one.
 
-Or just put in a few drops of superglue.
+Or just put in some superglue.
 
 ## Scanning Preparation
 
@@ -391,9 +391,9 @@ Finally! Let's start.
 
 * Place film strips **emulsion side up**
 
-	* The correct side should **curl up**
+	* The side that **curls up**
 
-	* Picture/frame-number should **look mirrored**
+	* Picture/edge markings should **look mirrored**
 
 	* Place near the **CENTER** of the light table
 
@@ -412,12 +412,12 @@ Finally! Let's start.
 	* Manual focus w/ **focus peaking**
 	* Lowest ISO
 
-* Set aperture around f/8
+* Set aperture to f/8
 	* Too small aperture (large f number) would soften the image due to diffraction 
 	* Too large aperture (small f number) makes it difficult to focus
 	* f/8 is just about right
 
-* Use **center-weighted autoexposure**. Fully manual if you want.
+* Use **center-weighted autoexposure**. Or fully manual if you want.
 
 * Using a **remote release** is strongly recommended to reduce vibration and speed up the process
 
@@ -440,7 +440,7 @@ Finally! Let's start.
 
 * Enter **magnified view** with focus peaking
 
-* Push rear thumb wheel on Fuji XT4, look up how to do it on yours.
+* Push rear thumbwheel on Fuji XT4, look up how to do it on yours.
 
 * Find a sharp area on the negative
 
@@ -466,7 +466,7 @@ From now on, avoid touching the camera as much as possible!
 
 It should stay in focus for the whole session.
 
-If you're paranoid, re-focus every time you remove the glass to put new negative in.
+If you're paranoid, re-focus every time you lift the glass to put new negative in.
 
 Definitely re-focus if left overnight. Temperature changes can cause focus drift.
 
@@ -480,7 +480,7 @@ We need to **invert**, **mirror**, and adjust the color of the photo.
 
 ![Alt text](sample_scans/raw.jpeg)
 
-There are a lot of guides online, so I'm not going to cover it in detail.
+There are a lot of guides online, so I'm not going to cover in detail.
 
 For black and white, I find it doable manually. But for color, it's much easier with dedicated software.
 
@@ -498,9 +498,7 @@ Popular ones include:
 
 Personally, I use Filmomat SmartConvert to invert the negative, and macOS photos app for minor adjustments.
 
-Final photo, click for full size.
-
-Zeiss Ikon Contessa 35 (Folding, 533/24), made in 1952.
+Zeiss Ikon Contessa 35 (Folding, 533/24), c. 1952. Click for full size.
 
 ![Alt text](sample_scans/cat.jpeg)
 
@@ -510,7 +508,7 @@ Amazing how good it looks despite being over 70 years old!
 
 Newton rings are circular interference patterns caused by close proximity of two smooth surfaces.
 
-It often appears where film touches smooth glass:
+They often appear where film touches smooth glass:
 
 ![Alt text](images/newton.jpeg)
 
@@ -519,23 +517,17 @@ However, from my experience, it almost never occurs with TCFS even with plain gl
 I have a theory:
 
 * We scan with emulsion side up, which is typically more matte.
-
-* Film strips are also placed near the center of the light table.
-
+* Film are also placed near the center of the light table.
 * Due to its size, there might be a minuscule amount of curvature on its surface.
-
-* Such that only the outer edges of the film is touching the glass!
+* Such that the film are not squished right against the glass!
 
 #### 😡 OMG that means the film is NOT FLAT!!1!🤬y didnt u tell me eariler what a waste of time!! 
 
 * The curvature (if any) is absolutely tiny, especially with the camera pushing down.
-
 * Such curvature is well within the depth of field of your digital camera.
-
 	* For 35mm, you have [2.6mm DoF](images/dof35mm.png).
-
-	* That's the thickness of 4 credit cards, or more than 20 times the film itself!
-
+	* That's the thickness of 4 credit cards, or 20 times thicker than the film itself!
+	* You'll definitely notice if it's that much.
 	* For 120, [DoF is 7.6mm](images/dof120.png). More than a quarter inch!
 
 ---------
@@ -544,14 +536,21 @@ I have a theory:
 	* Follow the instructions
 	* Focus properly on the negative
 	* Look at the result yourself and decide
-
 * Feel free to examine my [full-size samples](./sample_scans).
-
 * Finally, if it really bothers you, you can always buy some ANR or etched non-glare glass.
-
 * [Useful discussion here](https://old.reddit.com/r/AnalogCommunity/comments/pex269/anr_glass_alternative_using_etched_frame_glass/).
 
-## How Did it Go?
+## How'd It Go?
+
+That's it! Hopefully it works out well enough for you
+
+Remember the key points
+
+* blah
+
+* blah
+
+i would love to hear about your expeience. get in touch, discord and email.
 
 ## License Notice
 
