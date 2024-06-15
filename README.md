@@ -234,9 +234,9 @@ We need a piece of glass to hold the film flat on the light table.
 
 #### But what about newton rings???????
 
-We scan with emulsion side up with a particular setup, seems to helps a lot.
+I'll talk about it later, but just know it won't be a big problem.
 
-I suggest start with cheap plain glass, you can always upgrade to ANR glass later
+I suggest start with cheap plain glass, you can always upgrade to ANR glass later.
 
 ## Cone Preparation
 
