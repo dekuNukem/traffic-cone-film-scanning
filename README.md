@@ -506,7 +506,17 @@ Amazing how good it looks despite being over 70 years old! It's my favorite ever
 
 ## A Word on Newton Rings
 
-## Checklist
+Newton rings are circular interference patterns caused by close proximity of two smooth surfaces.
+
+Such as when film touches glass:
+
+
+
+## Tips & Tricks
+
+color slide film: overexpose slightly, built-in HDR too?
+
+
 
 ## How Did it Go?
 
