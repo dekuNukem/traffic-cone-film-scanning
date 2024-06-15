@@ -46,7 +46,7 @@ Fuji XT4 + Laowa 65mm f/2.8
 
 ![Alt text](sample_scans/crow.jpeg)
 
-35mm Sprocket Pano
+35mm Sprocket
 
 ![Alt text](sample_scans/beware.jpeg)
 
