@@ -335,6 +335,16 @@ Select RAW output format for best quality, needed for most converting software.
 
 ![Alt text](photos/raw.png)
 
+### Focus Assist
+
+We are going to manually focus on the negative.
+
+**Focus peaking** is essential to ensure a sharp scan.
+
+Make sure it's on, and blue has nice contrast with orange negatives.
+
+![Alt text](photos/mf.png)
+
 ### Dust Management
 
 We have a few potential surfaces for dust, so it is crucial to be as clean as possible.
@@ -355,48 +365,133 @@ We have a few potential surfaces for dust, so it is crucial to be as clean as po
 
 ![Alt text](photos/leather.jpg)
 
-
 ## Scanning Procedures
 
-* Attach cone to the camera by screwing on the lens hood.
-* Wear gloves, THEN wipe down the glass and light table with chamois leather to remove dust.
-* Place film strips **emulsion side up** near the **center** of the light table.
-	* The correct side should **curl up**
-	* The picture/frame-number should **look mirrored**.
+Finally! Let's start.
 
-* Place glass on top.
+* **Wear gloves**
+
+* Wipe down the glass and light table with chamois leather
+
+* Place film strips **emulsion side up**
+
+	* The correct side should **curl up**
+
+	* Picture/frame-number should **look mirrored**
+
+	* Place near the **CENTER** of the light table
+
+![Alt text](photos/strips.jpeg)
+
+* Place glass on top. Ensure **no overlapping**
+
+![Alt text](photos/glass.jpeg)
+
 * Double check camera settings:
 	
 	* Custom white balance
 	* RAW output
 	* Manual focus w/ **focus peaking**
+	* Lowest ISO
 
-place the cone over the negative.
+* Set aperture around f/8
+	* Too small aperture (large f number) would soften the image due to diffraction 
+	* Too large aperture (small f number) makes it difficult to focus
+	* f/8 is just about right
 
-focus, focus assist, peaking with magnification absolutly essential. very littlemargin for error. look for where the assist it strongest.
+* Enable **center-weighted autoexposure**.
 
-aparture: very important. around F8, wide open lower image quality harder to focus. too small diffraction makes it blurry.
+* Seems to work pretty well, but you can go fully manual if you want.
 
-ISO: reduce noise, as low as possible, anything below 200 is plenty.
+* Using a **remote release** is strongly recommended to reduce vibration and speed up the process
 
-exposure, not too sure, center weighted autoexposure close enough.
+	* The kind with 2.5mm jack are all the same, just get the cheapest one
+	* You camera might also support wireless or phone app
 
-make sure use RAW format
+![Alt text](photos/remote.png)
 
-short self timer with remote release
+---------
 
-change all the settings before focusing. once in focus touch as little as possible.
+* Attach cone to the camera
 
-move the whole thing around the glass.
+* Place the cone over the negative
 
-## Tips and Tricks
+![Alt text](photos/outside.jpeg)
 
-checklist
+* Line up the picture
 
-white balance correct?
-ISO as small as possible
+![Alt text](photos/fullframe.png)
 
-## Troubleshooting / Q&A
+* Enter **zoomed view** with focus peaking
+
+* On Fuji XT4 it's pushing in the back dial, look up how to do it on yours.
+
+* Find a sharp area on the negative
+
+* Adjust focus until you achieve **maximum amount of "sparkles"**
+
+![Alt text](photos/focus.gif)
+
+* The tolerance is razor-thin! Tiny amount of movement is all you need.
+
+-----
+
+Now we are in focus!
+
+From now on, avoid touching the camera as much as possible!
+
+* Use remote release / remote app / self timer, take a photo!
+
+* Slide the cone around the glass for each photo
+
+* Grab the neck of the cone, not the lens, to avoid accidentally knocking out focus.
+
+--------
+
+It should stay in focus for the whole session.
+
+If you're paranoid, feel free to re-focus every time you remove the glass to put new negative in.
+
+## Post-Processing
+
+Now we have high-quality scans in RAW format.
+
+But some processing is needed to get the best result.
+
+We need to **invert**, **mirror**, and adjust the color of the photo.
+
+![Alt text](photos/raw.jpeg)
+
+There are a lot of guides online, so I'm not going to cover it in detail.
+
+For black and white, I find it's doable manually. But for color, it's much easier to use a dedicated app.
+
+Popular ones include:
+
+* [Negative Lab Pro](https://www.negativelabpro.com/) (paid, requires Adobe Lightroom)
+
+* [Grain2Pixel](https://grain2pixel.com) (free, requires Adobe Photoshop)
+
+* [Darktable + Negadoctor](https://docs.darktable.org/usermanual/3.8/en/module-reference/processing-modules/negadoctor/) (free, but very fiddly last time I tried)
+
+* [Filmomat SmartConvert](https://www.filmomat.eu/smartconvert) (paid, standalone)
+
+-------
+
+Personally, I use Filmomat SmartConvert to invert the negative, and macOS photos app for minor adjustments.
+
+Final photo, click for full size.
+
+![Alt text](photos/cat.jpeg)
+
+Zeiss Ikon Contessa 35 (Folding, 533/24), made in 1952.
+
+Amazing how good it looks despite being over 70 years old! It's my favorite point-and-shoot.
+
+## A Word on Newton Rings
+
+## Checklist
+
 
 
 ## License Notice
