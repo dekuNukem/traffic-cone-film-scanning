@@ -1,6 +1,6 @@
 # Traffic-Cone Film Scan: Customization Guide
 
-[Main Page](README.md)
+[Buy Cones]() | [Main Page](README.md) | [Discord](https://discord.gg/wB9mKjD2Cn)
 
 ----------
 
@@ -110,10 +110,7 @@ Back in Autodesk Fusion. We can now customize the cone with the values we just m
 #### `hood_inner_dia` and `hood_outer_dia`
 
 * Lens hood diameters you just measured
-* For **INNER diameter**, **ROUND DOWN** to the nearest 0.5mm.
-	* 57.4mm -> 57mm
-* For **OUTER diameter**, **ROUND UP** to the nearest 0.5mm.
-	* 60.62mm -> 61mm
+* Type in exactly **as-is**
 
 #### `raft_x` and `raft_y`
 

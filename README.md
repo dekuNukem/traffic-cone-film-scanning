@@ -1,5 +1,9 @@
 # Traffic-Cone Film Scanning: High-Quality Digitization on the Cheap
 
+[Buy Cones]() | [Discord](https://discord.gg/wB9mKjD2Cn) | [Table of Contents](#Table-of-Contents)
+
+-----
+
 Analog photography is making a resurgence, many people are shooting film again.
 
 To view and share the photos, they need to be digitized.
@@ -21,31 +25,56 @@ TCFS is a low-cost 3D-printable alternative that produces high-quality results a
 
 ## Advantages
 
-* **Low cost**: $1 in filaments, $50 all-in.
-* **Space-saving**: No tripods or copystands, quick setup.
-* **No calibration**: Fixed distance, always square.
-* **Fully enclosed**: No stray lights, no reflection.
-* **Multi format**: 110, 126, 35mm, 645, 6x6, 6x7, 6x9, sprockets, and more!
+* **Low-cost**: $1 in filaments, $50 all-in.
+* **Easy setup**: No tripods/copystands. Fixed distance, always square, no calibration.
+* **Fully Enclosed**: No stray lights, no reflection.
+* **Multi-format**: 110, 126, 35mm, 645, 6x6, 6x7, 6x9, sprockets, and more!
+* **Open-source**: Customizable parametric design, CCBY4.0 license.
 
 ## Samples
 
 Fuji XT4 + Laowa 65mm f/2.8
 
+35mm
+
 ![Alt text](photos/crow.jpeg)
+
+35mm in 6x6 film back
 
 ![Alt text](photos/beware.jpeg)
 
+6x6 Negative
+
 ![Alt text](photos/tail.jpeg)
+
+6x6 Slide
 
 ![Alt text](photos/cloud.jpeg)
 
 ## So What's the Catch?
 
-This is not a turn-key solution, and you need to be a bit handy:
+While I was able to achieve excellent results, there are a few things to keep in mind.
 
-* Basic DIY skills: Wire a plug, using a caliper, etc.
-* Access to 3D printer (Your own / local library / makerspace)
-* Know basics of 3D printing (or have someone do it for you)
+#### Getting a Cone
+
+* Print-your-own for lowest cost, basic 3D printing knowledge needed.
+* Pre-made cones are also available.
+* One cone for each film format.
+
+#### No Magic Bullet
+
+* When done properly, the result can be as good as any expensive DSLR/mirrorless setup.
+* Able to get the most out of 35mm & smaller.
+* Also great with medium formats, but likely won't extract all its resolution.
+* However, for utmost quality, wet mounting / drum scan is still hard to beat.
+* The main advantage is excellent scans at much lower cost, easy setup, and faster speed.
+
+#### Feedback Wanted!
+
+* Commodity off-the-self parts are used to reduce cost.
+* However it can result in variability from person to person.
+* I would love to hear about your experience with TCFS!
+* Get in touch [via Discord](https://discord.gg/wB9mKjD2Cn) or email: dekuNukem&gmail.com!
 
 ## Sounds Great, I'm In!
 
@@ -91,13 +120,14 @@ Another popular option is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store
 
 * 1x MR
 * Excellent image quality
+* **Ready-to-print** cones!
 * Around $160
 
 ![Alt text](photos/7art.png)
 
 Both are fully manual and popular with film digitization.
 
-Get them cheaper on ebay or aliexpress.
+Get them cheaper on aliexpress.
 
 The extra magnification of laowa can be handy for subminiature formats such as 110, half-frame, or disk films.
 
@@ -147,7 +177,7 @@ They are a lot cheaper, and give you a massive area to work with.
 
 ![Alt text](photos/space.jpeg)
 
-The LED panel comes with a power adapter, into which you need to wire up a plug.
+The LED panel comes with a power adapter. You need to wire a plug to it.
 
 ⚠️ ⚡ Mains voltage is involved! 
 
@@ -163,7 +193,11 @@ Generally:
 * Blue is **NEUTRAL**
 * Green/Yellow is **EARTH**
 
-You can use a regular plug and turn it on/off at the power strip.
+Toolless lever-actuated connectors like WAGO 221 is very useful for making connections without soldering. Very inexpensive too.
+
+![Alt text](photos/toolless.jpg)
+
+You can use a regular plug, and turn it on/off at the power strip.
 
 Or an inline switch like this to be extra fancy!
 
@@ -182,7 +216,7 @@ We need a piece of glass to hold the film flat on the light table.
 
 ![Alt text](photos/frame.jpg)
 
-#### OMG what about newton rings???????
+#### What about newton rings???????
 
 We scan with emulsion side up, along with the setup I'm going to cover later, seems to helps a lot.
 
@@ -194,29 +228,22 @@ For best results, the cone should be adjusted to your specific lens / film forma
 
 ### I bought one ready-made!
 
-Great, [skip to the next section](#assembling-the-cone).
+Great, skip to the [Cone Assembly](#assembling-the-cone) section.
 
-### I have the Laowa 65mm f/2.8!
+### I have the lens below!
 
-Great! Download what you need and go to the next section.
+* `Laowa 65mm f/2.8 2x Ultra Macro APO`
+* `7Artisans 60mm f/2.8 MK II`
+
+Great! Download a file and go to the next section.
 
 * [35mm full frame (no sprocket)]()
 * [120 645] under construction
 * [120 6x6]()
 * [120 6x7]()
 * [120 6x9]()
-* [35mm sprocket pano on 120 6x6]()
 
 sample file name: laowa_65mm_2.8_APSC-35mm.stl
-
-### I have the 7Artisans 60mm f/2.8 MK II!
-
-* [35mm full frame (no sprocket)]()
-* [120 645] under construction
-* [120 6x6]()
-* [120 6x7]()
-* [120 6x9]()
-* [35mm sprocket pano on 120 6x6]()
 
 ### I'm using my own lens / I want to customize!
 
@@ -243,7 +270,10 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 
 ## Cone Assembly
 
-* First, remove any filament whiskers **near the film gate**.
+* First, remove any filament whiskers/strands **near the film gate**.
+
+![Alt text](photos/strands.jpeg)
+
 * Whiskers higher up won't show up, no need to worry about them.
 
 -----
@@ -253,13 +283,12 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 
 ![Alt text](photos/.jpeg)
 
-* Hover the camera **just above** the cone, adjust focus
+* Hover the camera just over the cone, barely touching.
+* Adjust focus, and rotate the camera.
 * Until the film gate is **parallel** with camera frame
 
 ![Alt text](photos/.jpeg)
 
-* Lower and **loosely** rest the camera on the cone, **DO NOT** push all the way in yet!
-* Double check the framing is still straight
 * Mark the position of the cone with paint marker, or a scratch mark.
 
 ![Alt text](photos/.jpeg)
@@ -274,7 +303,7 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 
 The cone should grip the lens hood tightly. 
 
-If too loose, adjust the parameters and print a new one, or just fill the gap with superglue.
+If too loose, you can put a few drops of superglue, or adjust the parameters and print a new one.
 
 ## Scanning Prerequisites
 
@@ -313,30 +342,26 @@ We have a few potential surfaces for dust, so it is crucial to be as clean as po
 
 #### Wipe-down
 
-* Get some **Chamois Leather**. Inexpensive, but make sure it's real.
-* Microfibre cloths works too, but they might also shed lints. 
 * Before a scanning session, wipe clean the light table and glass (both sides).
+* I use inexpensive **Chamois Leather**. Make sure it's real kind.
+* Microfibre cloths works too, but they might also shed lints. 
 
 ## Scanning Procedures
 
 * Attach cone to the camera by screwing on the lens hood.
-
-* Wear gloves, wipe down the glass and light table with chamois leather to reduce dust.
-
+* Wear gloves, THEN wipe down the glass and light table with chamois leather to remove dust.
 * Place film strips **emulsion side up** near the **center** of the light table.
-
-	* Looking down, the picture/frame-number should **look mirrored**.
+	* The correct side should **curl up**
+	* The picture/frame-number should **look mirrored**.
 
 * Place glass on top.
-
 * Double check camera settings:
 	
 	* Custom white balance
 	* RAW output
-	* Manual focus mode
+	* Manual focus w/ **focus peaking**
 
-
-place camera over the negative.
+place the cone over the negative.
 
 focus, focus assist, peaking with magnification absolutly essential. very littlemargin for error. look for where the assist it strongest.
 
