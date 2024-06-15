@@ -253,7 +253,7 @@ Great, skip to the [Cone Assembly](#assembling-the-cone) section.
 
 Great! Download a file and go to the next section.
 
-* [35mm Full Frame](3d_models/laowa_7art_35mm_fullframe.stl)
+* [35mm Full Frame](3d_models/laowa_7art_35mm_fullframe.stl?raw=true)
 * [35mm Sprocket](3d_models/laowa_7art_35mm_sprocket_6x6.stl) (using 120 adaptor on 6x6 camera)
 * [645](3d_models/laowa_7art_645.stl)
 * [6x6](3d_models/laowa_7art_6x6.stl)
