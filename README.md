@@ -39,7 +39,7 @@ Fuji XT4 + Laowa 65mm f/2.8
 
 ![Alt text](photos/crow.jpeg)
 
-35mm in 6x6 film back
+35mm Sprocket Pano
 
 ![Alt text](photos/beware.jpeg)
 
@@ -57,7 +57,7 @@ While I was able to achieve excellent results, there are a few things to keep in
 
 #### Getting a Cone
 
-* Print-your-own for lowest cost, basic 3D printing knowledge needed.
+* Print-your-own for lowest cost, basic 3D printing experience needed.
 * Pre-made cones are also available.
 * One cone for each film format.
 
