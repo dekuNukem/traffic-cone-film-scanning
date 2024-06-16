@@ -28,11 +28,11 @@ TCFS is a low-cost 3D-printable alternative that produces high-quality results a
 * **Low-cost**: $1 in filaments.
 * **Easy setup**:
 	* No tripods/copystands
-	* Fixed distance, always square. No alignment.
+	* Fixed distance, no calibration.
 * **Fully Enclosed**
 	* No stray lights
 	* No reflection
-* **Multi-format**: 110, 126, 35mm, 645, 6x6, 6x7, 6x9, sprockets, and more!
+* **Multi-format**: Subminiature, 35mm, 120, sprockets, and more!
 * **Open-source**
 	* Customizable parametric design
 	* CCBY4.0 license.
