@@ -34,7 +34,7 @@ Create a free personal-use account, download, and install.
 
 * Download the [template cone](https://github.com/dekuNukem/traffic-cone-film-scanning/raw/master/3d_models/cone_template.f3d) and select it.
 * Feel free to drag the viewcube to look around.
-* Click on a edge/corner/face to snap to view point.
+* Click its edge/corner/face to snap to view point.
 
 ![Alt text](images/tempcone.png)
 
@@ -98,7 +98,7 @@ That's it! We're done.
 
 Back in Autodesk Fusion. We can now put in the values we just measured.
 
-* Click the **number in Expression column** to change the value.
+Click the **number in Expression column** to change the value.
 
 ![Alt text](images/click.png)
 
@@ -123,7 +123,7 @@ Usually, the following values need to be changed:
 
 #### `raft_x` and `raft_y`
 
-* Size of the bottom platform
+* Size of the "base" of the cone
 * Default is 90x90mm, works pretty well.
 * Increase slightly for larger formats.
 
