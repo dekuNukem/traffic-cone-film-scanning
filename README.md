@@ -8,7 +8,7 @@ Analog photography is making a resurgence, many people are shooting film again.
 
 To view and share the photos, they need to be digitized.
 
-Scanning using a digital camera is popular, but a conventional setup can cost [hundreds of dollars](photos/dollaz.png).
+Scanning using a digital camera is popular, but a conventional setup can cost [hundreds of dollars](images/dollaz.png).
 
 TCFS is a low-cost 3D-printable alternative that produces high-quality results at a fraction of the price.
 
