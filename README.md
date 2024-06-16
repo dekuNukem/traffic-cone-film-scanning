@@ -1,6 +1,6 @@
 # Traffic-Cone Film Scanning: High-Quality Digitization on the Cheap
 
-[Buy Cones]() | [Discord](https://discord.gg/wB9mKjD2Cn) | [Table of Contents](#Table-of-Contents)
+[Buy Cones](https://www.tindie.com/stores/dekunukem/) | [Discord](https://discord.gg/wB9mKjD2Cn) | [Table of Contents](#Table-of-Contents)
 
 -----
 
@@ -82,7 +82,7 @@ While TCFS can achieve excellent results, there are a few things to keep in mind
 
 * One cone per film format.
 * For lowest cost, print your own. Basic 3D printing experience needed.
-* Pre-made cones also available.
+* [Pre-made cones also available.](https://www.tindie.com/stores/dekunukem/)
 
 #### No Magic Bullet
 
@@ -146,7 +146,7 @@ A popular choice is [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.
 
 * 2x MR
 * Superb image quality
-* **Ready-to-print** cones!
+* **Ready-to-print** / [Pre-made](https://www.tindie.com/stores/dekunukem/) cones!
 * Around $330
 
 ![Alt text](images/laowa.jpg)
@@ -155,7 +155,7 @@ Another one is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store/products/7
 
 * 1x MR
 * Excellent image quality
-* **Ready-to-print** cones!
+* **Ready-to-print** / [Pre-made](https://www.tindie.com/stores/dekunukem/) cones!
 * Around $160
 
 ![Alt text](images/7art.png)
