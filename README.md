@@ -104,15 +104,26 @@ While TCFS can achieve excellent results, there are a few things to keep in mind
 
 Let's get started! The setup involves:
 
+* Digital Camera
 * Macro Lens
 * Lens Hood
 * Light Table
 * Flat Glass
 * The Cone
 
+## Digital Camera
+
+Obviously, you need one of those.
+
+Any DSLR or Mirrorless made in the past decade should be more than good enough.
+
+No need to chase the latest and greatest. APS-C sensor is plenty.
+
+A **swivel / tilt screen** would be nice to have, makes checking focus easier.
+
 ## Macro Lens
 
-Obviously, the quality of the scan largely depends on the lens.
+The quality of the scan depend largely on the lens.
 
 For best results, I recommend:
 
@@ -121,7 +132,7 @@ For best results, I recommend:
 
 ---------
 
-**Magnification Ratio** is an important factor to consider.
+**Magnification Ratio** is important:
 
 * A 1:1 (1x) ratio means the lens can project the **actual size of the subject** onto the sensor
 * At 2:1 (2x), the subject can be projected **twice as big** on the sensor
@@ -193,13 +204,9 @@ They are a lot cheaper, and give you a massive area to work with.
 ![Alt text](images/panel.png)
 
 * Make sure it's **High-CRI** (>95)
-
 * Neutral color temperature (**Around 5000K**)
-
 * Flat matte surface finish (pretty sure they all are)
-
 * Standard size is 600x600mm / 24x24in 
-
 * Smaller ones available, but I like it big!
 
 ![Alt text](images/space.jpeg)
@@ -220,13 +227,13 @@ Generally:
 * Blue is **NEUTRAL**
 * Green/Yellow is **EARTH**
 
-Toolless lever-actuated connectors like WAGO 221 is very useful for making connections without soldering. Very inexpensive too.
+Inexpensive lever-actuated connectors like WAGO 221 is very useful for making connections without soldering.
 
 ![Alt text](images/toolless.jpg)
 
 You can use a regular plug, and turn it on/off at the power strip.
 
-Or an inline switch like this to be extra fancy!
+Or an inline switch to be extra fancy!
 
 ![Alt text](images/sw.jpg)
 
@@ -413,12 +420,11 @@ Finally! Let's start.
 
 ![Alt text](images/strips.jpeg)
 
-* Place glass on top. Ensure **no overlapping**
+* Glass on top. Ensure **no overlapping**
 
 ![Alt text](images/glass.jpeg)
 
 * Double check camera settings:
-	
 	* Custom white balance
 	* RAW output
 	* Manual focus w/ **focus peaking**
@@ -520,7 +526,7 @@ Amazing how good it looks despite being over 70 years old!
 
 ## Key Points
 
-As always, you'll get quicker with with time.
+As always, you'll get quicker with time.
 
 To recap, those are the most important points to remember:
 
