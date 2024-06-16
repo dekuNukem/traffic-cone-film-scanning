@@ -93,13 +93,6 @@ While TCFS can achieve excellent results, there are a few things to keep in mind
 * For utmost quality, wet mounting/drum scans are still hard to beat.
 * Main advantage is excellent scans at much lower cost, easy setup, and faster speed.
 
-#### Feedback Wanted!
-
-* Commodity off-the-self parts are used to reduce cost.
-* However it can result in variability from person to person.
-* I would love to hear about your experience!
-* Get in touch [via Discord](https://discord.gg/wB9mKjD2Cn) or email: `dekuNukem&gmail.com`!
-
 ## Sounds Great, I'm In!
 
 Let's get started! The setup involves:
