@@ -229,9 +229,7 @@ Just a simple knot should be fine. When tugged, it will pull the knot tighter in
 
 ![Alt text](images/toolless.jpg)
 
-Use a regular plug, and turn it on/off at the power strip. 
-
-Or an inline switch to be extra fancy.
+You can use a regular plug and turn it on/off at the power strip, or an inline switch to be extra fancy.
 
 Remember to **twist-lock** the output jack!
 
