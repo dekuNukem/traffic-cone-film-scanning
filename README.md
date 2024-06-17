@@ -4,7 +4,7 @@
 
 -----
 
-Analog photography is making a resurgence, many people are shooting film again.
+Analog photography is having a resurgence, many people are shooting film again.
 
 To view and share the photos, they need to be digitized.
 
@@ -17,10 +17,9 @@ TCFS is a low-cost 3D-printable alternative that produces high-quality results a
 ## How It Works
 
 * Print a cone
-* Attach to lens hood
 * Attach to macro lens
 * Film under glass
-* Camera on cone, pointing straight down.
+* Camera point straight down.
 * Focus and shoot!
 
 ## Advantages
@@ -68,6 +67,8 @@ Fuji XT4 + Laowa 65mm f/2.8
 6x6 Slide
 
 ![Alt text](sample_scans/cloud.jpeg)
+
+[More full-size samples here](sample_scans)
 
 ## So What's the Catch?
 
@@ -139,7 +140,7 @@ A popular choice is [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.
 
 * 2x MR
 * Superb image quality
-* **Ready-to-print** / [Pre-made](https://www.tindie.com/products/34910/) cones!
+* [Ready-to-print](3d_models) / [Pre-made](https://www.tindie.com/products/34910/) cones!
 * Around $330
 
 ![Alt text](images/laowa.jpg)
@@ -148,7 +149,7 @@ Another one is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store/products/7
 
 * 1x MR
 * Excellent image quality
-* **Ready-to-print** / [Pre-made](https://www.tindie.com/products/34910/) cones!
+* **[Ready-to-print](3d_models) / [Pre-made](https://www.tindie.com/products/34910/) cones!
 * Around $160
 
 ![Alt text](images/7art.png)
@@ -220,21 +221,19 @@ Generally:
 * Blue is **NEUTRAL**
 * Green/Yellow is **EARTH**
 
-Inexpensive lever-actuated connectors like WAGO 221 is very useful for making connections without soldering.
+Inexpensive lever-actuated connectors like WAGO 221 is very useful.
 
-If you do use them, make sure to have **strain relief**, so if someone trips over the cable, it wont pull out and expose the live wire.
+If you do use them, make sure to have **strain relief**, so it won't accidentally pull out and expose the live wire.
 
 Just a simple knot should be fine. When tugged, it will pull the knot tighter instead of ripping out the wires.
 
 ![Alt text](images/toolless.jpg)
 
-You can use a regular plug, and turn it on/off at the power strip.
+Use a regular plug, and turn it on/off at the power strip. 
 
-Or an inline switch to be extra fancy!
+Or an inline switch to be extra fancy.
 
-![Alt text](images/sw.jpg)
-
-* Remember to **twist-lock** the output jack so it stays in place
+Remember to **twist-lock** the output jack!
 
 ## Flat Glass
 
