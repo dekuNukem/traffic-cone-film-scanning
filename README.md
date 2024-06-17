@@ -572,9 +572,7 @@ I have a theory:
 
 That's it! If you read this far, hopefully you have already made some scans, or at least interested in trying!
 
-I would love to hear about your experience, good or bad.
-
-As well as any comments, questions, and suggestions!
+I would love to hear about your experience, good or bad, as well as any comments, questions, and suggestions, in order to improve this process.
 
 Get in touch [via Discord](https://discord.gg/wB9mKjD2Cn), or email: dekuNukem&gmail.com!
 
