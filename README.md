@@ -557,7 +557,7 @@ I have a theory:
 	* Follow the instructions
 	* Focus properly on the negative
 	* Look at the result yourself and decide. The proof is in the pudding. 
-* Feel free to examine my [full-size samples](./sample_scans).
+* Feel free to examine my [full-size samples](https://github.com/dekuNukem/traffic-cone-film-scanning/tree/master/sample_scans).
 * Finally, if it really bothers you, you can always get some ANR glass.
 * [Useful discussion here](https://old.reddit.com/r/AnalogCommunity/comments/pex269/anr_glass_alternative_using_etched_frame_glass/).
 
