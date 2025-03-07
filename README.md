@@ -68,7 +68,7 @@ Fuji XT4 + Laowa 65mm f/2.8
 
 ![Alt text](sample_scans/cloud.jpeg)
 
-[More full-size samples here](sample_scans)
+[More full-size samples here](https://github.com/dekuNukem/traffic-cone-film-scanning/tree/master/sample_scans)
 
 ## So What's the Catch?
 
