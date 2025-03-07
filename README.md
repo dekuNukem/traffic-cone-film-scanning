@@ -1,6 +1,6 @@
 # Traffic-Cone Film Scanning: High-Quality Digitization on the Cheap
 
-[Buy Cones](https://www.tindie.com/products/34910/) | [Discord](https://discord.gg/wB9mKjD2Cn) | [Table of Contents](#Table-of-Contents)
+[Discord](https://discord.gg/wB9mKjD2Cn) | [Table of Contents](#Table-of-Contents)
 
 -----
 
@@ -83,7 +83,6 @@ While TCFS can achieve excellent results, there are a few things to keep in mind
 
 * One cone per film format.
 * For lowest cost, print your own. Basic 3D printing experience needed.
-* [Pre-made cones also available.](https://www.tindie.com/products/34910/)
 
 #### No Magic Bullet
 
@@ -140,7 +139,6 @@ A popular choice is [Laowa 65mm f/2.8 2x Ultra Macro APO](https://www.venuslens.
 
 * 2x MR
 * Superb image quality
-* [Ready-to-print](3d_models) / [Pre-made](https://www.tindie.com/products/34910/) cones!
 * Around $330
 
 ![Alt text](images/laowa.jpg)
@@ -149,7 +147,6 @@ Another one is [7Artisans 60mm f/2.8 Mark II](https://7artisans.store/products/7
 
 * 1x MR
 * Excellent image quality
-* **[Ready-to-print](3d_models) / [Pre-made](https://www.tindie.com/products/34910/) cones!
 * Around $160
 
 ![Alt text](images/7art.png)
@@ -253,10 +250,6 @@ I suggest start with cheap plain glass, you can always upgrade to ANR glass late
 ## Cone Preparation
 
 For best results, the cone should be customized to your specific lens.
-
-### I bought one ready-made!
-
-Great, skip to the [Cone Assembly](#cone-assembly) section.
 
 ### I have the lens below!
 

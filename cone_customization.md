@@ -1,15 +1,10 @@
 # Traffic-Cone Film Scanning: Customization Guide
 
-[Buy Cones](https://www.tindie.com/products/34910/) | [Main Page](README.md) | [Discord](https://discord.gg/wB9mKjD2Cn)
+[Main Page](README.md) | [Discord](https://discord.gg/wB9mKjD2Cn)
 
 ----------
 
 This guide shows you how to customize the cone to **your particular lens and film size**.
-
-**[Pre-made](https://www.tindie.com/products/34910/)** / **[Ready-to-print](3d_models)** cones are available for:
-
-* `Laowa 65mm f/2.8 2x Ultra Macro APO`
-* `7Artisans 60mm f/2.8 Mark II`
 
 ## Install Autodesk Fusion
 

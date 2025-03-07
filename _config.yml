@@ -8,7 +8,7 @@ include:
   - README.md
   - LICENSE
 remote_theme: pages-themes/primer@v0.6.0
-title: Traffic-Cone Film Scanning
+# title: Traffic-Cone Film Scanning
 # description: Low-cost 
 permissions:
   id-token: write
