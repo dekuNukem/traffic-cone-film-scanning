@@ -325,9 +325,7 @@ If you don't have a 3D printer, try local library, makerspace, or online printin
 
 The cone should grip the lens hood tightly. 
 
-If too loose, adjust the parameters and print a new one.
-
-Or just put in some superglue.
+If too loose, use some duct tape, or print a new one.
 
 ## Scanning Preparation
 
